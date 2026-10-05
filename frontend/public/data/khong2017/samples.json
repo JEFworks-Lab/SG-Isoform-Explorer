@@ -1,0 +1,50 @@
+[
+  {
+    "sample_id": "SRR5605163",
+    "condition": "SG",
+    "replicate": 1,
+    "display_name": "SG replicate 1",
+    "normalization_denominator": 51837398,
+    "normalization_denominator_name": "STAR uniquely mapped reads"
+  },
+  {
+    "sample_id": "SRR5605164",
+    "condition": "SG",
+    "replicate": 2,
+    "display_name": "SG replicate 2",
+    "normalization_denominator": 53720582,
+    "normalization_denominator_name": "STAR uniquely mapped reads"
+  },
+  {
+    "sample_id": "SRR5605165",
+    "condition": "SG",
+    "replicate": 3,
+    "display_name": "SG replicate 3",
+    "normalization_denominator": 54985736,
+    "normalization_denominator_name": "STAR uniquely mapped reads"
+  },
+  {
+    "sample_id": "SRR5605166",
+    "condition": "Total",
+    "replicate": 1,
+    "display_name": "Total replicate 1",
+    "normalization_denominator": 46235578,
+    "normalization_denominator_name": "STAR uniquely mapped reads"
+  },
+  {
+    "sample_id": "SRR5605167",
+    "condition": "Total",
+    "replicate": 2,
+    "display_name": "Total replicate 2",
+    "normalization_denominator": 39693506,
+    "normalization_denominator_name": "STAR uniquely mapped reads"
+  },
+  {
+    "sample_id": "SRR5605168",
+    "condition": "Total",
+    "replicate": 3,
+    "display_name": "Total replicate 3",
+    "normalization_denominator": 37008524,
+    "normalization_denominator_name": "STAR uniquely mapped reads"
+  }
+]

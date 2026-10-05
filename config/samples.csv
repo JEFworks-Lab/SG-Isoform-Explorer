@@ -1,0 +1,7 @@
+sample_id,condition,replicate,display_name
+SRR5605163,SG,1,SG replicate 1
+SRR5605164,SG,2,SG replicate 2
+SRR5605165,SG,3,SG replicate 3
+SRR5605166,Total,1,Total replicate 1
+SRR5605167,Total,2,Total replicate 2
+SRR5605168,Total,3,Total replicate 3

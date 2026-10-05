@@ -1,0 +1,50 @@
+{
+  "schema_version": "3.1.0",
+  "dataset": {
+    "id": "khong2017_gene_browser",
+    "name": "Khong 2017 \u00b7 SG versus Total RNA",
+    "description": "Gene-symbol-driven browser build from Ensembl 115, Salmon, STAR, and indexed BAM files.",
+    "genome": "GRCh38.p14",
+    "annotation": "Ensembl 115",
+    "status": "prepared from source files"
+  },
+  "conditions": [
+    {
+      "id": "SG",
+      "label": "Stress Granule RNA"
+    },
+    {
+      "id": "Total",
+      "label": "Total RNA"
+    }
+  ],
+  "comparison": {
+    "numerator": "SG",
+    "denominator": "Total",
+    "label": "SG / Total"
+  },
+  "coordinate_system": "1-based inclusive",
+  "junction_convention": "donor = STAR column 2 - 1; acceptor = STAR column 3 + 1",
+  "coverage": {
+    "source": "indexed coordinate-sorted BAM",
+    "source_bin_size": 1,
+    "raw_unit": "unique-read depth",
+    "normalized_unit": "depth per million STAR uniquely mapped reads",
+    "filter": "NH=1 and exclude SAM flags 0xF04",
+    "display_bin_sizes": [
+      1,
+      5,
+      25
+    ]
+  },
+  "samples": "samples.json",
+  "resources": {
+    "genes": "genes.json",
+    "transcripts": "transcripts.json",
+    "expression": "expression.json",
+    "enrichment": "enrichment.json",
+    "coverage_pattern": "coverage/{gene_id}__{sample_id}.json",
+    "junction_pattern": "junctions/{gene_id}__{sample_id}.json",
+    "reads_pattern": "reads/{gene_id}__{sample_id}.json"
+  }
+}

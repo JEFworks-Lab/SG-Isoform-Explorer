@@ -1,0 +1,3972 @@
+{
+  "gene_id": "ENSG00000182718",
+  "sample_id": "SRR5605164",
+  "chrom": "15",
+  "start": 60347134,
+  "end": 60402883,
+  "coordinate_system": "1-based inclusive",
+  "read_filter": "NH=1 and exclude SAM flags 0xf04",
+  "total_reads": 99166,
+  "displayed_reads": 100,
+  "reads": [
+    {
+      "read_id": "SRR5605164.39180659",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60373881,
+          "end": 60373956
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.33515310",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60364485,
+          "end": 60364523
+        },
+        {
+          "start": 60382342,
+          "end": 60382378
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60364523,
+          "acceptor": 60382342
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.18807141",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60347505,
+          "end": 60347580
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.34816229",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60364506,
+          "end": 60364523
+        },
+        {
+          "start": 60382342,
+          "end": 60382399
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60364523,
+          "acceptor": 60382342
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.11213313",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351235,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351782
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.22254488",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351237,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351784
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.37951281",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60347680,
+          "end": 60347689
+        },
+        {
+          "start": 60349075,
+          "end": 60349140
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60347689,
+          "acceptor": 60349075
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.37107594",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60349101,
+          "end": 60349176
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.10768897",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60364511,
+          "end": 60364523
+        },
+        {
+          "start": 60382342,
+          "end": 60382404
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60364523,
+          "acceptor": 60382342
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.51530753",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60360986,
+          "end": 60361054
+        },
+        {
+          "start": 60364429,
+          "end": 60364435
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60361054,
+          "acceptor": 60364429
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.34892944",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60349116,
+          "end": 60349151
+        },
+        {
+          "start": 60349153,
+          "end": 60349192
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.5942249",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60349075,
+          "end": 60349149
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.46697607",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351214,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351761
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.45258947",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60347645,
+          "end": 60347689
+        },
+        {
+          "start": 60349075,
+          "end": 60349105
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60347689,
+          "acceptor": 60349075
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.36875554",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60382367,
+          "end": 60382441
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.7765683",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60347506,
+          "end": 60347581
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.50411877",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60352395,
+          "end": 60352470
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.26569998",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352424,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354176
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.23689687",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351736,
+          "end": 60351811
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.33061028",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60360986,
+          "end": 60361054
+        },
+        {
+          "start": 60364429,
+          "end": 60364435
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60361054,
+          "acceptor": 60364429
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.8469232",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60364443,
+          "end": 60364518
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.16952693",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60393163,
+          "end": 60393222
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.32609912",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351806,
+          "end": 60351819
+        },
+        {
+          "start": 60352383,
+          "end": 60352444
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351819,
+          "acceptor": 60352383
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.32272908",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60364490,
+          "end": 60364523
+        },
+        {
+          "start": 60382342,
+          "end": 60382383
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60364523,
+          "acceptor": 60382342
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.16017633",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60382417,
+          "end": 60382441
+        },
+        {
+          "start": 60386028,
+          "end": 60386078
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60382441,
+          "acceptor": 60386028
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.18165295",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60386028,
+          "end": 60386086
+        },
+        {
+          "start": 60397943,
+          "end": 60397959
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60386086,
+          "acceptor": 60397943
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.40387310",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60347592,
+          "end": 60347667
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.37443542",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60347508,
+          "end": 60347583
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.26118051",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60396337,
+          "end": 60396412
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.52785345",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60352449,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354201
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.23932697",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60355991,
+          "end": 60355998
+        },
+        {
+          "start": 60357146,
+          "end": 60357213
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60355998,
+          "acceptor": 60357146
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.28896251",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60382349,
+          "end": 60382424
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.30885526",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351815,
+          "end": 60351819
+        },
+        {
+          "start": 60352383,
+          "end": 60352453
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351819,
+          "acceptor": 60352383
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.3065926",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60361029,
+          "end": 60361054
+        },
+        {
+          "start": 60364429,
+          "end": 60364478
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60361054,
+          "acceptor": 60364429
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.39514114",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60354167,
+          "end": 60354213
+        },
+        {
+          "start": 60355919,
+          "end": 60355947
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60354213,
+          "acceptor": 60355919
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.31543798",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351750,
+          "end": 60351819
+        },
+        {
+          "start": 60352383,
+          "end": 60352388
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351819,
+          "acceptor": 60352383
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.1620720",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352411,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354163
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.7422169",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351232,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351779
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.45704289",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60347617,
+          "end": 60347689
+        },
+        {
+          "start": 60349075,
+          "end": 60349077
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60347689,
+          "acceptor": 60349075
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.1509338",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60355963,
+          "end": 60355998
+        },
+        {
+          "start": 60357146,
+          "end": 60357185
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60355998,
+          "acceptor": 60357146
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.14171931",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60347641,
+          "end": 60347689
+        },
+        {
+          "start": 60349075,
+          "end": 60349101
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60347689,
+          "acceptor": 60349075
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.50538087",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60347505,
+          "end": 60347580
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.37156309",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60347471,
+          "end": 60347546
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.41458413",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60364518,
+          "end": 60364523
+        },
+        {
+          "start": 60382342,
+          "end": 60382411
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60364523,
+          "acceptor": 60382342
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.45696913",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60347582,
+          "end": 60347657
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.1795464",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60347680,
+          "end": 60347689
+        },
+        {
+          "start": 60349075,
+          "end": 60349140
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60347689,
+          "acceptor": 60349075
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.7024853",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60357222,
+          "end": 60357236
+        },
+        {
+          "start": 60360941,
+          "end": 60361001
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60357236,
+          "acceptor": 60360941
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.30649406",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60386039,
+          "end": 60386086
+        },
+        {
+          "start": 60397943,
+          "end": 60397970
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60386086,
+          "acceptor": 60397943
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.52079583",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352414,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354166
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.20671995",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60360990,
+          "end": 60361054
+        },
+        {
+          "start": 60364429,
+          "end": 60364439
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60361054,
+          "acceptor": 60364429
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.4334522",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60349148,
+          "end": 60349197
+        },
+        {
+          "start": 60351193,
+          "end": 60351218
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60349197,
+          "acceptor": 60351193
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.2990518",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351192,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351739
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.43230414",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351796,
+          "end": 60351819
+        },
+        {
+          "start": 60352383,
+          "end": 60352434
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351819,
+          "acceptor": 60352383
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.21613228",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60347673,
+          "end": 60347689
+        },
+        {
+          "start": 60349075,
+          "end": 60349133
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60347689,
+          "acceptor": 60349075
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.43152212",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60357156,
+          "end": 60357231
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.23848709",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60386035,
+          "end": 60386086
+        },
+        {
+          "start": 60397943,
+          "end": 60397966
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60386086,
+          "acceptor": 60397943
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.23271369",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60386040,
+          "end": 60386086
+        },
+        {
+          "start": 60397943,
+          "end": 60397971
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60386086,
+          "acceptor": 60397943
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.54146741",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60361021,
+          "end": 60361054
+        },
+        {
+          "start": 60364429,
+          "end": 60364470
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60361054,
+          "acceptor": 60364429
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.45167838",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60355922,
+          "end": 60355997
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.18307838",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60382412,
+          "end": 60382441
+        },
+        {
+          "start": 60386028,
+          "end": 60386073
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60382441,
+          "acceptor": 60386028
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.2814720",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60397285,
+          "end": 60397338
+        },
+        {
+          "start": 60397943,
+          "end": 60397964
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60397338,
+          "acceptor": 60397943
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.13315059",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60357221,
+          "end": 60357236
+        },
+        {
+          "start": 60360941,
+          "end": 60361000
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60357236,
+          "acceptor": 60360941
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.43329557",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60347464,
+          "end": 60347539
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.47090136",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60355982,
+          "end": 60355998
+        },
+        {
+          "start": 60357146,
+          "end": 60357204
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60355998,
+          "acceptor": 60357146
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.15420232",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60347517,
+          "end": 60347592
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.15285813",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60385890,
+          "end": 60385958
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.11205050",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351811,
+          "end": 60351819
+        },
+        {
+          "start": 60352383,
+          "end": 60352449
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351819,
+          "acceptor": 60352383
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.1238648",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60354174,
+          "end": 60354213
+        },
+        {
+          "start": 60355919,
+          "end": 60355954
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60354213,
+          "acceptor": 60355919
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.8642525",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60347620,
+          "end": 60347689
+        },
+        {
+          "start": 60349075,
+          "end": 60349080
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60347689,
+          "acceptor": 60349075
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.481850",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60386060,
+          "end": 60386086
+        },
+        {
+          "start": 60397258,
+          "end": 60397306
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60386086,
+          "acceptor": 60397258
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.38816228",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60355949,
+          "end": 60355998
+        },
+        {
+          "start": 60357146,
+          "end": 60357171
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60355998,
+          "acceptor": 60357146
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.15008727",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60382371,
+          "end": 60382441
+        },
+        {
+          "start": 60386028,
+          "end": 60386032
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60382441,
+          "acceptor": 60386028
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.17773812",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60347448,
+          "end": 60347523
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.9062144",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60397287,
+          "end": 60397338
+        },
+        {
+          "start": 60397943,
+          "end": 60397966
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60397338,
+          "acceptor": 60397943
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.50577396",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352451,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354203
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.37495831",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60364444,
+          "end": 60364518
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.23815224",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351235,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351782
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.43618005",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60386042,
+          "end": 60386086
+        },
+        {
+          "start": 60397943,
+          "end": 60397973
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60386086,
+          "acceptor": 60397943
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.18310150",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60349127,
+          "end": 60349192
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.46824189",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60349145,
+          "end": 60349197
+        },
+        {
+          "start": 60351193,
+          "end": 60351215
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60349197,
+          "acceptor": 60351193
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.46674983",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60347684,
+          "end": 60347689
+        },
+        {
+          "start": 60349075,
+          "end": 60349144
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60347689,
+          "acceptor": 60349075
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.8246719",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351734,
+          "end": 60351809
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.19263809",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60390757,
+          "end": 60390832
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.31406421",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351230,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351777
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.29753923",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60349076,
+          "end": 60349151
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.49429980",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60352395,
+          "end": 60352470
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.16730941",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351769,
+          "end": 60351819
+        },
+        {
+          "start": 60352383,
+          "end": 60352407
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351819,
+          "acceptor": 60352383
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.37388142",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60395415,
+          "end": 60395490
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.5558058",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352468,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354213
+        },
+        {
+          "start": 60355919,
+          "end": 60355925
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        },
+        {
+          "donor": 60354213,
+          "acceptor": 60355919
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.16355181",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60347507,
+          "end": 60347582
+        }
+      ],
+      "junctions": []
+    },
+    {
+      "read_id": "SRR5605164.56640857",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60355961,
+          "end": 60355998
+        },
+        {
+          "start": 60357146,
+          "end": 60357183
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60355998,
+          "acceptor": 60357146
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.7691846",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60382402,
+          "end": 60382441
+        },
+        {
+          "start": 60386028,
+          "end": 60386063
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60382441,
+          "acceptor": 60386028
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.2574078",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351234,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351781
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.25368489",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60386042,
+          "end": 60386086
+        },
+        {
+          "start": 60397943,
+          "end": 60397973
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60386086,
+          "acceptor": 60397943
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.56865308",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60364481,
+          "end": 60364523
+        },
+        {
+          "start": 60382342,
+          "end": 60382374
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60364523,
+          "acceptor": 60382342
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.10719363",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60364518,
+          "end": 60364523
+        },
+        {
+          "start": 60382342,
+          "end": 60382411
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60364523,
+          "acceptor": 60382342
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.31801541",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60355982,
+          "end": 60355998
+        },
+        {
+          "start": 60357146,
+          "end": 60357204
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60355998,
+          "acceptor": 60357146
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.46468182",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60354159,
+          "end": 60354213
+        },
+        {
+          "start": 60355919,
+          "end": 60355939
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60354213,
+          "acceptor": 60355919
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.56301433",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60349151,
+          "end": 60349197
+        },
+        {
+          "start": 60351193,
+          "end": 60351221
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60349197,
+          "acceptor": 60351193
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.18845108",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60347505,
+          "end": 60347580
+        }
+      ],
+      "junctions": []
+    }
+  ],
+  "total_spliced_reads": 62729,
+  "displayed_spliced_reads": 100,
+  "spliced_reads": [
+    {
+      "read_id": "SRR5605164.7235463",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60357176,
+          "end": 60357236
+        },
+        {
+          "start": 60360941,
+          "end": 60360955
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60357236,
+          "acceptor": 60360941
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.17640746",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60386036,
+          "end": 60386086
+        },
+        {
+          "start": 60397258,
+          "end": 60397282
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60386086,
+          "acceptor": 60397258
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.3714016",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60364512,
+          "end": 60364523
+        },
+        {
+          "start": 60382342,
+          "end": 60382405
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60364523,
+          "acceptor": 60382342
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.49854715",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60364489,
+          "end": 60364523
+        },
+        {
+          "start": 60382342,
+          "end": 60382382
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60364523,
+          "acceptor": 60382342
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.41021668",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351232,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351779
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.18066141",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60382431,
+          "end": 60382441
+        },
+        {
+          "start": 60386028,
+          "end": 60386086
+        },
+        {
+          "start": 60397258,
+          "end": 60397263
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60382441,
+          "acceptor": 60386028
+        },
+        {
+          "donor": 60386086,
+          "acceptor": 60397258
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.32138918",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60386042,
+          "end": 60386086
+        },
+        {
+          "start": 60397943,
+          "end": 60397973
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60386086,
+          "acceptor": 60397943
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.20878567",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351228,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351775
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.23124292",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351199,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351746
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.52240692",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60361022,
+          "end": 60361054
+        },
+        {
+          "start": 60364429,
+          "end": 60364471
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60361054,
+          "acceptor": 60364429
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.32902405",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60357189,
+          "end": 60357236
+        },
+        {
+          "start": 60360941,
+          "end": 60360968
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60357236,
+          "acceptor": 60360941
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.33226046",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351795,
+          "end": 60351819
+        },
+        {
+          "start": 60352383,
+          "end": 60352433
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351819,
+          "acceptor": 60352383
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.35482865",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352424,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354176
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.53393439",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60386028,
+          "end": 60386086
+        },
+        {
+          "start": 60397943,
+          "end": 60397959
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60386086,
+          "acceptor": 60397943
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.43354359",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60382371,
+          "end": 60382441
+        },
+        {
+          "start": 60386028,
+          "end": 60386032
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60382441,
+          "acceptor": 60386028
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.57180456",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351811,
+          "end": 60351819
+        },
+        {
+          "start": 60352383,
+          "end": 60352449
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351819,
+          "acceptor": 60352383
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.45489277",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352462,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354214
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.45004564",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351228,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351775
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.6514837",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352438,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354190
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.20310882",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60364459,
+          "end": 60364523
+        },
+        {
+          "start": 60382342,
+          "end": 60382352
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60364523,
+          "acceptor": 60382342
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.45061501",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60357189,
+          "end": 60357236
+        },
+        {
+          "start": 60360941,
+          "end": 60360968
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60357236,
+          "acceptor": 60360941
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.13671065",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60357172,
+          "end": 60357236
+        },
+        {
+          "start": 60360941,
+          "end": 60360951
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60357236,
+          "acceptor": 60360941
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.11734962",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60357219,
+          "end": 60357236
+        },
+        {
+          "start": 60360941,
+          "end": 60360998
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60357236,
+          "acceptor": 60360941
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.15307973",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60364512,
+          "end": 60364523
+        },
+        {
+          "start": 60382342,
+          "end": 60382405
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60364523,
+          "acceptor": 60382342
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.53617945",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60347642,
+          "end": 60347689
+        },
+        {
+          "start": 60349075,
+          "end": 60349102
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60347689,
+          "acceptor": 60349075
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.56472498",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352460,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354212
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.35076825",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60357222,
+          "end": 60357236
+        },
+        {
+          "start": 60360941,
+          "end": 60361001
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60357236,
+          "acceptor": 60360941
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.14958689",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60361044,
+          "end": 60361054
+        },
+        {
+          "start": 60364429,
+          "end": 60364493
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60361054,
+          "acceptor": 60364429
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.2466836",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351231,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351778
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.12844185",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352468,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354213
+        },
+        {
+          "start": 60355919,
+          "end": 60355925
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        },
+        {
+          "donor": 60354213,
+          "acceptor": 60355919
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.38274975",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352462,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354214
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.53121129",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60361028,
+          "end": 60361054
+        },
+        {
+          "start": 60364429,
+          "end": 60364476
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60361054,
+          "acceptor": 60364429
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.47306925",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351192,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351739
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.21814632",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351219,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351766
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.26011693",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60397268,
+          "end": 60397338
+        },
+        {
+          "start": 60397943,
+          "end": 60397947
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60397338,
+          "acceptor": 60397943
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.42187015",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60355967,
+          "end": 60355998
+        },
+        {
+          "start": 60357146,
+          "end": 60357189
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60355998,
+          "acceptor": 60357146
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.24012028",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60382399,
+          "end": 60382441
+        },
+        {
+          "start": 60386028,
+          "end": 60386060
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60382441,
+          "acceptor": 60386028
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.36589882",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351192,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351739
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.42401796",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60357219,
+          "end": 60357236
+        },
+        {
+          "start": 60360941,
+          "end": 60360998
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60357236,
+          "acceptor": 60360941
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.8622520",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60382400,
+          "end": 60382441
+        },
+        {
+          "start": 60386028,
+          "end": 60386061
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60382441,
+          "acceptor": 60386028
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.22539823",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352471,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354213
+        },
+        {
+          "start": 60355919,
+          "end": 60355928
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        },
+        {
+          "donor": 60354213,
+          "acceptor": 60355919
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.2930424",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351192,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351738
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.34980625",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60347661,
+          "end": 60347689
+        },
+        {
+          "start": 60349075,
+          "end": 60349121
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60347689,
+          "acceptor": 60349075
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.2579525",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60355966,
+          "end": 60355998
+        },
+        {
+          "start": 60357146,
+          "end": 60357188
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60355998,
+          "acceptor": 60357146
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.18891911",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351232,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351779
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.39300273",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60354179,
+          "end": 60354213
+        },
+        {
+          "start": 60355919,
+          "end": 60355959
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60354213,
+          "acceptor": 60355919
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.44546048",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60354175,
+          "end": 60354213
+        },
+        {
+          "start": 60355919,
+          "end": 60355955
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60354213,
+          "acceptor": 60355919
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.28521656",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352452,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354204
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.3371233",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352449,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354201
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.35179939",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352385,
+          "end": 60352417
+        },
+        {
+          "start": 60354178,
+          "end": 60354213
+        },
+        {
+          "start": 60355919,
+          "end": 60355925
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352417,
+          "acceptor": 60354178
+        },
+        {
+          "donor": 60354213,
+          "acceptor": 60355919
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.23207939",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60364516,
+          "end": 60364523
+        },
+        {
+          "start": 60382342,
+          "end": 60382409
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60364523,
+          "acceptor": 60382342
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.14349954",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351809,
+          "end": 60351819
+        },
+        {
+          "start": 60352383,
+          "end": 60352447
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351819,
+          "acceptor": 60352383
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.4063718",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60382372,
+          "end": 60382441
+        },
+        {
+          "start": 60386028,
+          "end": 60386033
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60382441,
+          "acceptor": 60386028
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.50631804",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60374646,
+          "end": 60374682
+        },
+        {
+          "start": 60382342,
+          "end": 60382380
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60374682,
+          "acceptor": 60382342
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.7240433",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352454,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354206
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.18639801",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60382400,
+          "end": 60382441
+        },
+        {
+          "start": 60386028,
+          "end": 60386061
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60382441,
+          "acceptor": 60386028
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.16736786",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351232,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351779
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.37482635",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60357218,
+          "end": 60357236
+        },
+        {
+          "start": 60360941,
+          "end": 60360997
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60357236,
+          "acceptor": 60360941
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.51817471",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60386042,
+          "end": 60386086
+        },
+        {
+          "start": 60397943,
+          "end": 60397973
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60386086,
+          "acceptor": 60397943
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.34423776",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60357197,
+          "end": 60357236
+        },
+        {
+          "start": 60360941,
+          "end": 60360976
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60357236,
+          "acceptor": 60360941
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.50268511",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60382400,
+          "end": 60382441
+        },
+        {
+          "start": 60386028,
+          "end": 60386061
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60382441,
+          "acceptor": 60386028
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.9582882",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351814,
+          "end": 60351819
+        },
+        {
+          "start": 60352383,
+          "end": 60352452
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351819,
+          "acceptor": 60352383
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.38226204",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60352406,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354158
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.21053884",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352441,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354193
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.21887100",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351231,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351778
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.12733460",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352452,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354204
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.1829195",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60347662,
+          "end": 60347689
+        },
+        {
+          "start": 60349075,
+          "end": 60349122
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60347689,
+          "acceptor": 60349075
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.8664839",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351806,
+          "end": 60351819
+        },
+        {
+          "start": 60352383,
+          "end": 60352444
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351819,
+          "acceptor": 60352383
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.17977272",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352453,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354205
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.16532383",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60347680,
+          "end": 60347689
+        },
+        {
+          "start": 60349075,
+          "end": 60349140
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60347689,
+          "acceptor": 60349075
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.46780140",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352416,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354168
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.43857790",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60364490,
+          "end": 60364523
+        },
+        {
+          "start": 60382342,
+          "end": 60382383
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60364523,
+          "acceptor": 60382342
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.28202219",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60347638,
+          "end": 60347689
+        },
+        {
+          "start": 60349075,
+          "end": 60349098
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60347689,
+          "acceptor": 60349075
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.32203546",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351228,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351775
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.55656802",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351773,
+          "end": 60351819
+        },
+        {
+          "start": 60352383,
+          "end": 60352411
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351819,
+          "acceptor": 60352383
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.9404678",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351795,
+          "end": 60351819
+        },
+        {
+          "start": 60352383,
+          "end": 60352433
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351819,
+          "acceptor": 60352383
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.53939112",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60357222,
+          "end": 60357236
+        },
+        {
+          "start": 60360941,
+          "end": 60361001
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60357236,
+          "acceptor": 60360941
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.673476",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60347684,
+          "end": 60347689
+        },
+        {
+          "start": 60349075,
+          "end": 60349143
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60347689,
+          "acceptor": 60349075
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.12946368",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351231,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351778
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.51952192",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352407,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354159
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.52101354",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60360993,
+          "end": 60361054
+        },
+        {
+          "start": 60364429,
+          "end": 60364442
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60361054,
+          "acceptor": 60364429
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.50871693",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352451,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354203
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.4022689",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60364483,
+          "end": 60364523
+        },
+        {
+          "start": 60382342,
+          "end": 60382375
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60364523,
+          "acceptor": 60382342
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.29966492",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60352451,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354203
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.15062658",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60347686,
+          "end": 60347689
+        },
+        {
+          "start": 60349075,
+          "end": 60349146
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60347689,
+          "acceptor": 60349075
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.36152158",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60364483,
+          "end": 60364523
+        },
+        {
+          "start": 60382342,
+          "end": 60382376
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60364523,
+          "acceptor": 60382342
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.37520323",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60386038,
+          "end": 60386086
+        },
+        {
+          "start": 60397943,
+          "end": 60397969
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60386086,
+          "acceptor": 60397943
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.56674385",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60352413,
+          "end": 60352476
+        },
+        {
+          "start": 60354154,
+          "end": 60354165
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60352476,
+          "acceptor": 60354154
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.1146307",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60357222,
+          "end": 60357236
+        },
+        {
+          "start": 60360941,
+          "end": 60361001
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60357236,
+          "acceptor": 60360941
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.12695432",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60386041,
+          "end": 60386086
+        },
+        {
+          "start": 60397943,
+          "end": 60397972
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60386086,
+          "acceptor": 60397943
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.40873586",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351213,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351760
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.40388375",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60361032,
+          "end": 60361054
+        },
+        {
+          "start": 60364429,
+          "end": 60364481
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60361054,
+          "acceptor": 60364429
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.51447113",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60347672,
+          "end": 60347689
+        },
+        {
+          "start": 60349075,
+          "end": 60349132
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60347689,
+          "acceptor": 60349075
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.14915267",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60382437,
+          "end": 60382441
+        },
+        {
+          "start": 60386028,
+          "end": 60386086
+        },
+        {
+          "start": 60397943,
+          "end": 60397954
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60382441,
+          "acceptor": 60386028
+        },
+        {
+          "donor": 60386086,
+          "acceptor": 60397943
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.11483851",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60386039,
+          "end": 60386086
+        },
+        {
+          "start": 60397943,
+          "end": 60397970
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60386086,
+          "acceptor": 60397943
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.34357432",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60351238,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351785
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.17886309",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60382378,
+          "end": 60382441
+        },
+        {
+          "start": 60386028,
+          "end": 60386039
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60382441,
+          "acceptor": 60386028
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.39920116",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60351248,
+          "end": 60351251
+        },
+        {
+          "start": 60351724,
+          "end": 60351795
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60351251,
+          "acceptor": 60351724
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.50097884",
+      "mapq": 255,
+      "strand": "+",
+      "segments": [
+        {
+          "start": 60361050,
+          "end": 60361054
+        },
+        {
+          "start": 60364429,
+          "end": 60364499
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60361054,
+          "acceptor": 60364429
+        }
+      ]
+    },
+    {
+      "read_id": "SRR5605164.29404529",
+      "mapq": 255,
+      "strand": "-",
+      "segments": [
+        {
+          "start": 60382412,
+          "end": 60382441
+        },
+        {
+          "start": 60386028,
+          "end": 60386073
+        }
+      ],
+      "junctions": [
+        {
+          "donor": 60382441,
+          "acceptor": 60386028
+        }
+      ]
+    }
+  ]
+}

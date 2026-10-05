@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Isoform browser manifest",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "dataset",
+    "conditions",
+    "comparison",
+    "coordinate_system",
+    "junction_convention",
+    "coverage",
+    "samples",
+    "resources"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string"
+    },
+    "dataset": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "genome",
+        "annotation"
+      ]
+    },
+    "conditions": {
+      "type": "array"
+    },
+    "comparison": {
+      "type": "object",
+      "required": ["numerator", "denominator", "label"]
+    },
+    "coordinate_system": {
+      "const": "1-based inclusive"
+    },
+    "junction_convention": {
+      "const": "donor = STAR column 2 - 1; acceptor = STAR column 3 + 1"
+    },
+    "coverage": {
+      "type": "object",
+      "required": ["source", "source_bin_size", "raw_unit", "normalized_unit", "filter"]
+    },
+    "samples": {
+      "type": "string"
+    },
+    "resources": {
+      "type": "object"
+    }
+  }
+}

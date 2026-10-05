@@ -1,0 +1,40 @@
+.DS_Store
+**/.DS_Store
+
+# Python environments and caches
+.venv/
+**/__pycache__/
+*.py[cod]
+
+# Frontend dependencies and build products
+frontend/node_modules/
+frontend/dist/
+
+# Regenerable pipeline staging output. The deployable copy is committed under
+# frontend/public/data/khong2017/.
+browser-data/
+
+# Machine-specific audit files containing absolute local paths. Public-safe
+# context and provenance belong in docs/PROJECT_CONTEXT.md.
+config/browser_build.generated.report.json
+config/dataset_manifest*.yaml
+docs/data_provenance.md
+docs/isoform_browser_project_handoff.md
+
+# Large/raw sequencing inputs should never be committed to this browser repo.
+*.bam
+*.bai
+*.cram
+*.crai
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bigWig
+*.bw
+*.fa
+*.fa.gz
+*.fasta
+*.fasta.gz
+*.gtf.gz
+Homo_sapiens*.gtf

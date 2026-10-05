@@ -1,0 +1,7671 @@
+[
+  {
+    "transcript_id": "ENST00000246533.8",
+    "transcript_id_base": "ENST00000246533",
+    "transcript_name": "CAPNS1-201",
+    "gene_id": "ENSG00000126247",
+    "gene_id_version": "ENSG00000126247.12",
+    "gene_name": "CAPNS1",
+    "chrom": "19",
+    "start": 36140066,
+    "end": 36150353,
+    "strand": "+",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "CCDS",
+      "gencode_basic",
+      "gencode_primary",
+      "MANE_Select",
+      "Ensembl_canonical"
+    ],
+    "exons": [
+      {
+        "start": 36140066,
+        "end": 36140157,
+        "exon_number": 1
+      },
+      {
+        "start": 36140997,
+        "end": 36141220,
+        "exon_number": 2
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "exon_number": 3
+      },
+      {
+        "start": 36142652,
+        "end": 36142741,
+        "exon_number": 4
+      },
+      {
+        "start": 36142909,
+        "end": 36142966,
+        "exon_number": 5
+      },
+      {
+        "start": 36143064,
+        "end": 36143128,
+        "exon_number": 6
+      },
+      {
+        "start": 36145806,
+        "end": 36145874,
+        "exon_number": 7
+      },
+      {
+        "start": 36145976,
+        "end": 36146054,
+        "exon_number": 8
+      },
+      {
+        "start": 36146196,
+        "end": 36146312,
+        "exon_number": 9
+      },
+      {
+        "start": 36149578,
+        "end": 36149636,
+        "exon_number": 10
+      },
+      {
+        "start": 36149813,
+        "end": 36150353,
+        "exon_number": 11
+      }
+    ],
+    "cds": [
+      {
+        "start": 36141012,
+        "end": 36141220,
+        "phase": 0
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "phase": 1
+      },
+      {
+        "start": 36142652,
+        "end": 36142741,
+        "phase": 0
+      },
+      {
+        "start": 36142909,
+        "end": 36142966,
+        "phase": 0
+      },
+      {
+        "start": 36143064,
+        "end": 36143128,
+        "phase": 2
+      },
+      {
+        "start": 36145806,
+        "end": 36145874,
+        "phase": 0
+      },
+      {
+        "start": 36145976,
+        "end": 36146054,
+        "phase": 0
+      },
+      {
+        "start": 36146196,
+        "end": 36146312,
+        "phase": 2
+      },
+      {
+        "start": 36149578,
+        "end": 36149636,
+        "phase": 2
+      },
+      {
+        "start": 36149813,
+        "end": 36149836,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 36140066,
+        "end": 36140157
+      },
+      {
+        "start": 36140997,
+        "end": 36141011
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 36149840,
+        "end": 36150353
+      }
+    ],
+    "is_mane_select": true,
+    "is_ensembl_canonical": true
+  },
+  {
+    "transcript_id": "ENST00000586851.5",
+    "transcript_id_base": "ENST00000586851",
+    "transcript_name": "CAPNS1-202",
+    "gene_id": "ENSG00000126247",
+    "gene_id_version": "ENSG00000126247.12",
+    "gene_name": "CAPNS1",
+    "chrom": "19",
+    "start": 36141179,
+    "end": 36149866,
+    "strand": "+",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "cds_start_NF",
+      "mRNA_start_NF"
+    ],
+    "exons": [
+      {
+        "start": 36141179,
+        "end": 36141220,
+        "exon_number": 1
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "exon_number": 2
+      },
+      {
+        "start": 36142652,
+        "end": 36142741,
+        "exon_number": 3
+      },
+      {
+        "start": 36142909,
+        "end": 36142966,
+        "exon_number": 4
+      },
+      {
+        "start": 36143064,
+        "end": 36143128,
+        "exon_number": 5
+      },
+      {
+        "start": 36145806,
+        "end": 36145874,
+        "exon_number": 6
+      },
+      {
+        "start": 36145976,
+        "end": 36146054,
+        "exon_number": 7
+      },
+      {
+        "start": 36146247,
+        "end": 36146312,
+        "exon_number": 8
+      },
+      {
+        "start": 36149578,
+        "end": 36149636,
+        "exon_number": 9
+      },
+      {
+        "start": 36149813,
+        "end": 36149866,
+        "exon_number": 10
+      }
+    ],
+    "cds": [
+      {
+        "start": 36141179,
+        "end": 36141220,
+        "phase": 1
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "phase": 1
+      },
+      {
+        "start": 36142652,
+        "end": 36142741,
+        "phase": 0
+      },
+      {
+        "start": 36142909,
+        "end": 36142966,
+        "phase": 0
+      },
+      {
+        "start": 36143064,
+        "end": 36143128,
+        "phase": 2
+      },
+      {
+        "start": 36145806,
+        "end": 36145874,
+        "phase": 0
+      },
+      {
+        "start": 36145976,
+        "end": 36146054,
+        "phase": 0
+      },
+      {
+        "start": 36146247,
+        "end": 36146312,
+        "phase": 2
+      },
+      {
+        "start": 36149578,
+        "end": 36149636,
+        "phase": 2
+      },
+      {
+        "start": 36149813,
+        "end": 36149836,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [],
+    "three_prime_utr": [
+      {
+        "start": 36149840,
+        "end": 36149866
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000588815.5",
+    "transcript_id_base": "ENST00000588815",
+    "transcript_name": "CAPNS1-206",
+    "gene_id": "ENSG00000126247",
+    "gene_id_version": "ENSG00000126247.12",
+    "gene_name": "CAPNS1",
+    "chrom": "19",
+    "start": 36140127,
+    "end": 36150352,
+    "strand": "+",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "CCDS",
+      "gencode_basic",
+      "gencode_primary"
+    ],
+    "exons": [
+      {
+        "start": 36140127,
+        "end": 36140265,
+        "exon_number": 1
+      },
+      {
+        "start": 36141000,
+        "end": 36141220,
+        "exon_number": 2
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "exon_number": 3
+      },
+      {
+        "start": 36142652,
+        "end": 36142741,
+        "exon_number": 4
+      },
+      {
+        "start": 36142909,
+        "end": 36142966,
+        "exon_number": 5
+      },
+      {
+        "start": 36143064,
+        "end": 36143128,
+        "exon_number": 6
+      },
+      {
+        "start": 36145806,
+        "end": 36145874,
+        "exon_number": 7
+      },
+      {
+        "start": 36145976,
+        "end": 36146054,
+        "exon_number": 8
+      },
+      {
+        "start": 36146196,
+        "end": 36146312,
+        "exon_number": 9
+      },
+      {
+        "start": 36149578,
+        "end": 36149636,
+        "exon_number": 10
+      },
+      {
+        "start": 36149813,
+        "end": 36150352,
+        "exon_number": 11
+      }
+    ],
+    "cds": [
+      {
+        "start": 36141012,
+        "end": 36141220,
+        "phase": 0
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "phase": 1
+      },
+      {
+        "start": 36142652,
+        "end": 36142741,
+        "phase": 0
+      },
+      {
+        "start": 36142909,
+        "end": 36142966,
+        "phase": 0
+      },
+      {
+        "start": 36143064,
+        "end": 36143128,
+        "phase": 2
+      },
+      {
+        "start": 36145806,
+        "end": 36145874,
+        "phase": 0
+      },
+      {
+        "start": 36145976,
+        "end": 36146054,
+        "phase": 0
+      },
+      {
+        "start": 36146196,
+        "end": 36146312,
+        "phase": 2
+      },
+      {
+        "start": 36149578,
+        "end": 36149636,
+        "phase": 2
+      },
+      {
+        "start": 36149813,
+        "end": 36149836,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 36140127,
+        "end": 36140265
+      },
+      {
+        "start": 36141000,
+        "end": 36141011
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 36149840,
+        "end": 36150352
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000589146.5",
+    "transcript_id_base": "ENST00000589146",
+    "transcript_name": "CAPNS1-207",
+    "gene_id": "ENSG00000126247",
+    "gene_id_version": "ENSG00000126247.12",
+    "gene_name": "CAPNS1",
+    "chrom": "19",
+    "start": 36139953,
+    "end": 36149912,
+    "strand": "+",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "gencode_basic",
+      "gencode_primary"
+    ],
+    "exons": [
+      {
+        "start": 36139953,
+        "end": 36140157,
+        "exon_number": 1
+      },
+      {
+        "start": 36140997,
+        "end": 36141075,
+        "exon_number": 2
+      },
+      {
+        "start": 36146037,
+        "end": 36146054,
+        "exon_number": 3
+      },
+      {
+        "start": 36146196,
+        "end": 36146312,
+        "exon_number": 4
+      },
+      {
+        "start": 36149578,
+        "end": 36149636,
+        "exon_number": 5
+      },
+      {
+        "start": 36149813,
+        "end": 36149912,
+        "exon_number": 6
+      }
+    ],
+    "cds": [
+      {
+        "start": 36141012,
+        "end": 36141075,
+        "phase": 0
+      },
+      {
+        "start": 36146037,
+        "end": 36146054,
+        "phase": 2
+      },
+      {
+        "start": 36146196,
+        "end": 36146312,
+        "phase": 2
+      },
+      {
+        "start": 36149578,
+        "end": 36149636,
+        "phase": 2
+      },
+      {
+        "start": 36149813,
+        "end": 36149836,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 36139953,
+        "end": 36140157
+      },
+      {
+        "start": 36140997,
+        "end": 36141011
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 36149840,
+        "end": 36149912
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000589162.1",
+    "transcript_id_base": "ENST00000589162",
+    "transcript_name": "CAPNS1-208",
+    "gene_id": "ENSG00000126247",
+    "gene_id_version": "ENSG00000126247.12",
+    "gene_name": "CAPNS1",
+    "chrom": "19",
+    "start": 36145373,
+    "end": 36149580,
+    "strand": "+",
+    "biotype": "retained_intron",
+    "source": "havana",
+    "tags": [],
+    "exons": [
+      {
+        "start": 36145373,
+        "end": 36145874,
+        "exon_number": 1
+      },
+      {
+        "start": 36145976,
+        "end": 36146054,
+        "exon_number": 2
+      },
+      {
+        "start": 36146196,
+        "end": 36146312,
+        "exon_number": 3
+      },
+      {
+        "start": 36149578,
+        "end": 36149580,
+        "exon_number": 4
+      }
+    ],
+    "cds": [],
+    "five_prime_utr": [],
+    "three_prime_utr": [],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000590049.5",
+    "transcript_id_base": "ENST00000590049",
+    "transcript_name": "CAPNS1-209",
+    "gene_id": "ENSG00000126247",
+    "gene_id_version": "ENSG00000126247.12",
+    "gene_name": "CAPNS1",
+    "chrom": "19",
+    "start": 36141159,
+    "end": 36150353,
+    "strand": "+",
+    "biotype": "non_stop_decay",
+    "source": "havana",
+    "tags": [
+      "cds_start_NF",
+      "mRNA_start_NF"
+    ],
+    "exons": [
+      {
+        "start": 36141159,
+        "end": 36141220,
+        "exon_number": 1
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "exon_number": 2
+      },
+      {
+        "start": 36142652,
+        "end": 36142741,
+        "exon_number": 3
+      },
+      {
+        "start": 36142909,
+        "end": 36142966,
+        "exon_number": 4
+      },
+      {
+        "start": 36143064,
+        "end": 36143128,
+        "exon_number": 5
+      },
+      {
+        "start": 36145806,
+        "end": 36145874,
+        "exon_number": 6
+      },
+      {
+        "start": 36145976,
+        "end": 36146054,
+        "exon_number": 7
+      },
+      {
+        "start": 36146196,
+        "end": 36146290,
+        "exon_number": 8
+      },
+      {
+        "start": 36150314,
+        "end": 36150353,
+        "exon_number": 9
+      }
+    ],
+    "cds": [
+      {
+        "start": 36141159,
+        "end": 36141220,
+        "phase": 0
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "phase": 1
+      },
+      {
+        "start": 36142652,
+        "end": 36142741,
+        "phase": 0
+      },
+      {
+        "start": 36142909,
+        "end": 36142966,
+        "phase": 0
+      },
+      {
+        "start": 36143064,
+        "end": 36143128,
+        "phase": 2
+      },
+      {
+        "start": 36145806,
+        "end": 36145874,
+        "phase": 0
+      },
+      {
+        "start": 36145976,
+        "end": 36146054,
+        "phase": 0
+      },
+      {
+        "start": 36146196,
+        "end": 36146290,
+        "phase": 2
+      },
+      {
+        "start": 36150314,
+        "end": 36150353,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [],
+    "three_prime_utr": [],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000590211.5",
+    "transcript_id_base": "ENST00000590211",
+    "transcript_name": "CAPNS1-210",
+    "gene_id": "ENSG00000126247",
+    "gene_id_version": "ENSG00000126247.12",
+    "gene_name": "CAPNS1",
+    "chrom": "19",
+    "start": 36141190,
+    "end": 36150349,
+    "strand": "+",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "cds_start_NF",
+      "mRNA_start_NF"
+    ],
+    "exons": [
+      {
+        "start": 36141190,
+        "end": 36141220,
+        "exon_number": 1
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "exon_number": 2
+      },
+      {
+        "start": 36142652,
+        "end": 36142681,
+        "exon_number": 3
+      },
+      {
+        "start": 36150042,
+        "end": 36150349,
+        "exon_number": 4
+      }
+    ],
+    "cds": [
+      {
+        "start": 36141190,
+        "end": 36141220,
+        "phase": 2
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "phase": 1
+      },
+      {
+        "start": 36142652,
+        "end": 36142681,
+        "phase": 0
+      },
+      {
+        "start": 36150042,
+        "end": 36150107,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [],
+    "three_prime_utr": [
+      {
+        "start": 36150111,
+        "end": 36150349
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000628306.2",
+    "transcript_id_base": "ENST00000628306",
+    "transcript_name": "CAPNS1-216",
+    "gene_id": "ENSG00000126247",
+    "gene_id_version": "ENSG00000126247.12",
+    "gene_name": "CAPNS1",
+    "chrom": "19",
+    "start": 36140015,
+    "end": 36150353,
+    "strand": "+",
+    "biotype": "protein_coding",
+    "source": "ensembl",
+    "tags": [
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 36140015,
+        "end": 36140157,
+        "exon_number": 1
+      },
+      {
+        "start": 36140997,
+        "end": 36141220,
+        "exon_number": 2
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "exon_number": 3
+      },
+      {
+        "start": 36142909,
+        "end": 36142966,
+        "exon_number": 4
+      },
+      {
+        "start": 36143064,
+        "end": 36143128,
+        "exon_number": 5
+      },
+      {
+        "start": 36145806,
+        "end": 36145874,
+        "exon_number": 6
+      },
+      {
+        "start": 36145976,
+        "end": 36146054,
+        "exon_number": 7
+      },
+      {
+        "start": 36146196,
+        "end": 36146312,
+        "exon_number": 8
+      },
+      {
+        "start": 36149578,
+        "end": 36149636,
+        "exon_number": 9
+      },
+      {
+        "start": 36149813,
+        "end": 36150353,
+        "exon_number": 10
+      }
+    ],
+    "cds": [
+      {
+        "start": 36141012,
+        "end": 36141220,
+        "phase": 0
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "phase": 1
+      },
+      {
+        "start": 36142909,
+        "end": 36142966,
+        "phase": 0
+      },
+      {
+        "start": 36143064,
+        "end": 36143128,
+        "phase": 2
+      },
+      {
+        "start": 36145806,
+        "end": 36145874,
+        "phase": 0
+      },
+      {
+        "start": 36145976,
+        "end": 36146054,
+        "phase": 0
+      },
+      {
+        "start": 36146196,
+        "end": 36146312,
+        "phase": 2
+      },
+      {
+        "start": 36149578,
+        "end": 36149636,
+        "phase": 2
+      },
+      {
+        "start": 36149813,
+        "end": 36149836,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 36140015,
+        "end": 36140157
+      },
+      {
+        "start": 36140997,
+        "end": 36141011
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 36149840,
+        "end": 36150353
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000856038.1",
+    "transcript_id_base": "ENST00000856038",
+    "transcript_name": "CAPNS1-217",
+    "gene_id": "ENSG00000126247",
+    "gene_id_version": "ENSG00000126247.12",
+    "gene_name": "CAPNS1",
+    "chrom": "19",
+    "start": 36140066,
+    "end": 36150356,
+    "strand": "+",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 36140066,
+        "end": 36140157,
+        "exon_number": 1
+      },
+      {
+        "start": 36141000,
+        "end": 36141220,
+        "exon_number": 2
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "exon_number": 3
+      },
+      {
+        "start": 36142652,
+        "end": 36142741,
+        "exon_number": 4
+      },
+      {
+        "start": 36142909,
+        "end": 36142966,
+        "exon_number": 5
+      },
+      {
+        "start": 36143064,
+        "end": 36143128,
+        "exon_number": 6
+      },
+      {
+        "start": 36145806,
+        "end": 36145874,
+        "exon_number": 7
+      },
+      {
+        "start": 36145976,
+        "end": 36146054,
+        "exon_number": 8
+      },
+      {
+        "start": 36146196,
+        "end": 36146312,
+        "exon_number": 9
+      },
+      {
+        "start": 36149578,
+        "end": 36149636,
+        "exon_number": 10
+      },
+      {
+        "start": 36149813,
+        "end": 36150356,
+        "exon_number": 11
+      }
+    ],
+    "cds": [
+      {
+        "start": 36141012,
+        "end": 36141220,
+        "phase": 0
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "phase": 1
+      },
+      {
+        "start": 36142652,
+        "end": 36142741,
+        "phase": 0
+      },
+      {
+        "start": 36142909,
+        "end": 36142966,
+        "phase": 0
+      },
+      {
+        "start": 36143064,
+        "end": 36143128,
+        "phase": 2
+      },
+      {
+        "start": 36145806,
+        "end": 36145874,
+        "phase": 0
+      },
+      {
+        "start": 36145976,
+        "end": 36146054,
+        "phase": 0
+      },
+      {
+        "start": 36146196,
+        "end": 36146312,
+        "phase": 2
+      },
+      {
+        "start": 36149578,
+        "end": 36149636,
+        "phase": 2
+      },
+      {
+        "start": 36149813,
+        "end": 36149836,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 36140066,
+        "end": 36140157
+      },
+      {
+        "start": 36141000,
+        "end": 36141011
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 36149840,
+        "end": 36150356
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000940677.1",
+    "transcript_id_base": "ENST00000940677",
+    "transcript_name": "CAPNS1-220",
+    "gene_id": "ENSG00000126247",
+    "gene_id_version": "ENSG00000126247.12",
+    "gene_name": "CAPNS1",
+    "chrom": "19",
+    "start": 36140912,
+    "end": 36150353,
+    "strand": "+",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "CCDS",
+      "gencode_basic",
+      "gencode_primary"
+    ],
+    "exons": [
+      {
+        "start": 36140912,
+        "end": 36141220,
+        "exon_number": 1
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "exon_number": 2
+      },
+      {
+        "start": 36142652,
+        "end": 36142741,
+        "exon_number": 3
+      },
+      {
+        "start": 36142909,
+        "end": 36142966,
+        "exon_number": 4
+      },
+      {
+        "start": 36143064,
+        "end": 36143128,
+        "exon_number": 5
+      },
+      {
+        "start": 36145806,
+        "end": 36145874,
+        "exon_number": 6
+      },
+      {
+        "start": 36145976,
+        "end": 36146054,
+        "exon_number": 7
+      },
+      {
+        "start": 36146196,
+        "end": 36146312,
+        "exon_number": 8
+      },
+      {
+        "start": 36149578,
+        "end": 36149636,
+        "exon_number": 9
+      },
+      {
+        "start": 36149813,
+        "end": 36150353,
+        "exon_number": 10
+      }
+    ],
+    "cds": [
+      {
+        "start": 36141012,
+        "end": 36141220,
+        "phase": 0
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "phase": 1
+      },
+      {
+        "start": 36142652,
+        "end": 36142741,
+        "phase": 0
+      },
+      {
+        "start": 36142909,
+        "end": 36142966,
+        "phase": 0
+      },
+      {
+        "start": 36143064,
+        "end": 36143128,
+        "phase": 2
+      },
+      {
+        "start": 36145806,
+        "end": 36145874,
+        "phase": 0
+      },
+      {
+        "start": 36145976,
+        "end": 36146054,
+        "phase": 0
+      },
+      {
+        "start": 36146196,
+        "end": 36146312,
+        "phase": 2
+      },
+      {
+        "start": 36149578,
+        "end": 36149636,
+        "phase": 2
+      },
+      {
+        "start": 36149813,
+        "end": 36149836,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 36140912,
+        "end": 36141011
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 36149840,
+        "end": 36150353
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000959933.1",
+    "transcript_id_base": "ENST00000959933",
+    "transcript_name": "CAPNS1-224",
+    "gene_id": "ENSG00000126247",
+    "gene_id_version": "ENSG00000126247.12",
+    "gene_name": "CAPNS1",
+    "chrom": "19",
+    "start": 36140097,
+    "end": 36150356,
+    "strand": "+",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 36140097,
+        "end": 36140265,
+        "exon_number": 1
+      },
+      {
+        "start": 36140997,
+        "end": 36141220,
+        "exon_number": 2
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "exon_number": 3
+      },
+      {
+        "start": 36142652,
+        "end": 36142741,
+        "exon_number": 4
+      },
+      {
+        "start": 36142909,
+        "end": 36142966,
+        "exon_number": 5
+      },
+      {
+        "start": 36143064,
+        "end": 36143128,
+        "exon_number": 6
+      },
+      {
+        "start": 36145806,
+        "end": 36145874,
+        "exon_number": 7
+      },
+      {
+        "start": 36145976,
+        "end": 36146054,
+        "exon_number": 8
+      },
+      {
+        "start": 36146196,
+        "end": 36146312,
+        "exon_number": 9
+      },
+      {
+        "start": 36149578,
+        "end": 36149636,
+        "exon_number": 10
+      },
+      {
+        "start": 36149813,
+        "end": 36150356,
+        "exon_number": 11
+      }
+    ],
+    "cds": [
+      {
+        "start": 36141012,
+        "end": 36141220,
+        "phase": 0
+      },
+      {
+        "start": 36142300,
+        "end": 36142333,
+        "phase": 1
+      },
+      {
+        "start": 36142652,
+        "end": 36142741,
+        "phase": 0
+      },
+      {
+        "start": 36142909,
+        "end": 36142966,
+        "phase": 0
+      },
+      {
+        "start": 36143064,
+        "end": 36143128,
+        "phase": 2
+      },
+      {
+        "start": 36145806,
+        "end": 36145874,
+        "phase": 0
+      },
+      {
+        "start": 36145976,
+        "end": 36146054,
+        "phase": 0
+      },
+      {
+        "start": 36146196,
+        "end": 36146312,
+        "phase": 2
+      },
+      {
+        "start": 36149578,
+        "end": 36149636,
+        "phase": 2
+      },
+      {
+        "start": 36149813,
+        "end": 36149836,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 36140097,
+        "end": 36140265
+      },
+      {
+        "start": 36140997,
+        "end": 36141011
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 36149840,
+        "end": 36150356
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000451270.7",
+    "transcript_id_base": "ENST00000451270",
+    "transcript_name": "ANXA2-204",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347151,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "CCDS",
+      "gencode_basic",
+      "gencode_primary",
+      "MANE_Select",
+      "Ensembl_canonical"
+    ],
+    "exons": [
+      {
+        "start": 60347151,
+        "end": 60347689,
+        "exon_number": 13
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 12
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 11
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 10
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 9
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 8
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 7
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 6
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 5
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 4
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 3
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347151,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": true,
+    "is_ensembl_canonical": true
+  },
+  {
+    "transcript_id": "ENST00000332680.8",
+    "transcript_id_base": "ENST00000332680",
+    "transcript_name": "ANXA2-201",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347332,
+    "end": 60397985,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "ensembl_havana",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347332,
+        "end": 60347689,
+        "exon_number": 13
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 12
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 11
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 10
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 9
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 8
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 7
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 6
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 5
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 4
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 3
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 2
+      },
+      {
+        "start": 60397871,
+        "end": 60397985,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "phase": 2
+      },
+      {
+        "start": 60397871,
+        "end": 60397913,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60397914,
+        "end": 60397985
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347332,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000396024.7",
+    "transcript_id_base": "ENST00000396024",
+    "transcript_name": "ANXA2-202",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347134,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "ensembl_havana",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347134,
+        "end": 60347689,
+        "exon_number": 14
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 13
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 12
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 11
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 10
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 9
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 8
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 7
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 6
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 5
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 4
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 3
+      },
+      {
+        "start": 60390213,
+        "end": 60390317,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60390213,
+        "end": 60390317
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347134,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000421017.6",
+    "transcript_id_base": "ENST00000421017",
+    "transcript_name": "ANXA2-203",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347342,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "ensembl_havana",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347342,
+        "end": 60347689,
+        "exon_number": 14
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 13
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 12
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 11
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 10
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 9
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 8
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 7
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 6
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 5
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 4
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 3
+      },
+      {
+        "start": 60397258,
+        "end": 60397338,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60397258,
+        "end": 60397338
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347342,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000557906.6",
+    "transcript_id_base": "ENST00000557906",
+    "transcript_name": "ANXA2-207",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347144,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347144,
+        "end": 60347689,
+        "exon_number": 15
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 14
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 13
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 12
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 11
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 10
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 9
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 8
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 7
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 6
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 5
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 4
+      },
+      {
+        "start": 60396280,
+        "end": 60396427,
+        "exon_number": 3
+      },
+      {
+        "start": 60397258,
+        "end": 60397338,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60396280,
+        "end": 60396427
+      },
+      {
+        "start": 60397258,
+        "end": 60397338
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347144,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000557986.5",
+    "transcript_id_base": "ENST00000557986",
+    "transcript_name": "ANXA2-209",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60393097,
+    "end": 60397973,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "cds_end_NF",
+      "mRNA_end_NF"
+    ],
+    "exons": [
+      {
+        "start": 60393097,
+        "end": 60393440,
+        "exon_number": 4
+      },
+      {
+        "start": 60396151,
+        "end": 60396427,
+        "exon_number": 3
+      },
+      {
+        "start": 60397258,
+        "end": 60397338,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397973,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60393097,
+        "end": 60393110,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60393111,
+        "end": 60393440
+      },
+      {
+        "start": 60396151,
+        "end": 60396427
+      },
+      {
+        "start": 60397258,
+        "end": 60397338
+      },
+      {
+        "start": 60397943,
+        "end": 60397973
+      }
+    ],
+    "three_prime_utr": [],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000558503.6",
+    "transcript_id_base": "ENST00000558503",
+    "transcript_name": "ANXA2-212",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60354154,
+    "end": 60397974,
+    "strand": "-",
+    "biotype": "nonsense_mediated_decay",
+    "source": "havana",
+    "tags": [],
+    "exons": [
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 10
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 9
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 8
+      },
+      {
+        "start": 60360931,
+        "end": 60361054,
+        "exon_number": 7
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 6
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 5
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 4
+      },
+      {
+        "start": 60390213,
+        "end": 60390317,
+        "exon_number": 3
+      },
+      {
+        "start": 60397258,
+        "end": 60397338,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397974,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60357208,
+        "end": 60357236,
+        "phase": 2
+      },
+      {
+        "start": 60360931,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60390213,
+        "end": 60390317
+      },
+      {
+        "start": 60397258,
+        "end": 60397338
+      },
+      {
+        "start": 60397943,
+        "end": 60397974
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60354154,
+        "end": 60354213
+      },
+      {
+        "start": 60355919,
+        "end": 60355998
+      },
+      {
+        "start": 60357146,
+        "end": 60357204
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000558985.6",
+    "transcript_id_base": "ENST00000558985",
+    "transcript_name": "ANXA2-214",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347207,
+    "end": 60398033,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347207,
+        "end": 60347689,
+        "exon_number": 12
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 11
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 10
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 9
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 8
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 7
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 6
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 5
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 4
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 3
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60398033,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60360946,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60360947,
+        "end": 60361054
+      },
+      {
+        "start": 60364429,
+        "end": 60364523
+      },
+      {
+        "start": 60386028,
+        "end": 60386086
+      },
+      {
+        "start": 60397943,
+        "end": 60398033
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347207,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000558986.5",
+    "transcript_id_base": "ENST00000558986",
+    "transcript_name": "ANXA2-215",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60357194,
+    "end": 60391151,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "cds_end_NF",
+      "mRNA_end_NF"
+    ],
+    "exons": [
+      {
+        "start": 60357194,
+        "end": 60357236,
+        "exon_number": 7
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 6
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 5
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 4
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 3
+      },
+      {
+        "start": 60390213,
+        "end": 60390317,
+        "exon_number": 2
+      },
+      {
+        "start": 60391108,
+        "end": 60391151,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60357194,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60390213,
+        "end": 60390317
+      },
+      {
+        "start": 60391108,
+        "end": 60391151
+      }
+    ],
+    "three_prime_utr": [],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000558998.5",
+    "transcript_id_base": "ENST00000558998",
+    "transcript_name": "ANXA2-216",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60354154,
+    "end": 60397964,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "cds_end_NF",
+      "mRNA_end_NF"
+    ],
+    "exons": [
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 7
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 6
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 5
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 4
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 3
+      },
+      {
+        "start": 60397258,
+        "end": 60397338,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397964,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60360946,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60360947,
+        "end": 60361054
+      },
+      {
+        "start": 60364429,
+        "end": 60364523
+      },
+      {
+        "start": 60397258,
+        "end": 60397338
+      },
+      {
+        "start": 60397943,
+        "end": 60397964
+      }
+    ],
+    "three_prime_utr": [],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000559113.6",
+    "transcript_id_base": "ENST00000559113",
+    "transcript_name": "ANXA2-217",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347144,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347144,
+        "end": 60347689,
+        "exon_number": 13
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 12
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 11
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 10
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 9
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 8
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 7
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 6
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 5
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 4
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 3
+      },
+      {
+        "start": 60397258,
+        "end": 60397338,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60360946,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60360947,
+        "end": 60361054
+      },
+      {
+        "start": 60364429,
+        "end": 60364523
+      },
+      {
+        "start": 60386028,
+        "end": 60386086
+      },
+      {
+        "start": 60397258,
+        "end": 60397338
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347144,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000559176.5",
+    "transcript_id_base": "ENST00000559176",
+    "transcript_name": "ANXA2-218",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60351192,
+    "end": 60374505,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "cds_end_NF",
+      "cds_start_NF",
+      "mRNA_end_NF",
+      "mRNA_start_NF"
+    ],
+    "exons": [
+      {
+        "start": 60351192,
+        "end": 60351251,
+        "exon_number": 9
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 8
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 7
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 6
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 5
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 4
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 3
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 2
+      },
+      {
+        "start": 60374452,
+        "end": 60374505,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60351192,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60374452,
+        "end": 60374505,
+        "phase": 2
+      }
+    ],
+    "five_prime_utr": [],
+    "three_prime_utr": [],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000559350.5",
+    "transcript_id_base": "ENST00000559350",
+    "transcript_name": "ANXA2-219",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60357146,
+    "end": 60391127,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "cds_end_NF",
+      "mRNA_end_NF"
+    ],
+    "exons": [
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 7
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 6
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 5
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 4
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 3
+      },
+      {
+        "start": 60390213,
+        "end": 60390317,
+        "exon_number": 2
+      },
+      {
+        "start": 60391023,
+        "end": 60391127,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60390213,
+        "end": 60390317
+      },
+      {
+        "start": 60391023,
+        "end": 60391127
+      }
+    ],
+    "three_prime_utr": [],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000559467.5",
+    "transcript_id_base": "ENST00000559467",
+    "transcript_name": "ANXA2-221",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60360941,
+    "end": 60397978,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "cds_end_NF",
+      "mRNA_end_NF"
+    ],
+    "exons": [
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 8
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 7
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 6
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 5
+      },
+      {
+        "start": 60394574,
+        "end": 60394695,
+        "exon_number": 4
+      },
+      {
+        "start": 60396280,
+        "end": 60396427,
+        "exon_number": 3
+      },
+      {
+        "start": 60397258,
+        "end": 60397338,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397978,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60394574,
+        "end": 60394695
+      },
+      {
+        "start": 60396280,
+        "end": 60396427
+      },
+      {
+        "start": 60397258,
+        "end": 60397338
+      },
+      {
+        "start": 60397943,
+        "end": 60397978
+      }
+    ],
+    "three_prime_utr": [],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000559559.5",
+    "transcript_id_base": "ENST00000559559",
+    "transcript_name": "ANXA2-222",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60355428,
+    "end": 60397988,
+    "strand": "-",
+    "biotype": "retained_intron",
+    "source": "havana",
+    "tags": [],
+    "exons": [
+      {
+        "start": 60355428,
+        "end": 60355998,
+        "exon_number": 7
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 6
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 5
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 4
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 3
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397988,
+        "exon_number": 1
+      }
+    ],
+    "cds": [],
+    "five_prime_utr": [],
+    "three_prime_utr": [],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000559725.5",
+    "transcript_id_base": "ENST00000559725",
+    "transcript_name": "ANXA2-224",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60355961,
+    "end": 60398001,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "cds_end_NF",
+      "mRNA_end_NF"
+    ],
+    "exons": [
+      {
+        "start": 60355961,
+        "end": 60355998,
+        "exon_number": 7
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 6
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 5
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 4
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 3
+      },
+      {
+        "start": 60390213,
+        "end": 60390317,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60398001,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60355961,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60360946,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60360947,
+        "end": 60361054
+      },
+      {
+        "start": 60364429,
+        "end": 60364523
+      },
+      {
+        "start": 60386028,
+        "end": 60386086
+      },
+      {
+        "start": 60390213,
+        "end": 60390317
+      },
+      {
+        "start": 60397943,
+        "end": 60398001
+      }
+    ],
+    "three_prime_utr": [],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000559780.6",
+    "transcript_id_base": "ENST00000559780",
+    "transcript_name": "ANXA2-225",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347144,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347144,
+        "end": 60347689,
+        "exon_number": 14
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 13
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 12
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 11
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 10
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 9
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 8
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 7
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 6
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 5
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 4
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 3
+      },
+      {
+        "start": 60393038,
+        "end": 60393440,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "phase": 2
+      },
+      {
+        "start": 60393038,
+        "end": 60393110,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60393111,
+        "end": 60393440
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347144,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000559818.6",
+    "transcript_id_base": "ENST00000559818",
+    "transcript_name": "ANXA2-226",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347144,
+    "end": 60398742,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347144,
+        "end": 60347689,
+        "exon_number": 13
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 12
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 11
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 10
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 9
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 8
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 7
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 6
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 5
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 4
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 3
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 2
+      },
+      {
+        "start": 60398645,
+        "end": 60398742,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60398645,
+        "end": 60398742
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347144,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000559956.6",
+    "transcript_id_base": "ENST00000559956",
+    "transcript_name": "ANXA2-227",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347144,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347144,
+        "end": 60347689,
+        "exon_number": 14
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 13
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 12
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 11
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 10
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 9
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 8
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 7
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 6
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 5
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 4
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 3
+      },
+      {
+        "start": 60396280,
+        "end": 60396427,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60396280,
+        "end": 60396427
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347144,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000560165.5",
+    "transcript_id_base": "ENST00000560165",
+    "transcript_name": "ANXA2-229",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60355919,
+    "end": 60397968,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "cds_end_NF",
+      "mRNA_end_NF"
+    ],
+    "exons": [
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 8
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 7
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 6
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 5
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 4
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 3
+      },
+      {
+        "start": 60397258,
+        "end": 60397338,
+        "exon_number": 2
+      },
+      {
+        "start": 60397871,
+        "end": 60397968,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60397258,
+        "end": 60397338
+      },
+      {
+        "start": 60397871,
+        "end": 60397968
+      }
+    ],
+    "three_prime_utr": [],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000560389.5",
+    "transcript_id_base": "ENST00000560389",
+    "transcript_name": "ANXA2-231",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60355919,
+    "end": 60391297,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "cds_end_NF",
+      "mRNA_end_NF"
+    ],
+    "exons": [
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 7
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 6
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 5
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 4
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 3
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 2
+      },
+      {
+        "start": 60391243,
+        "end": 60391297,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60391243,
+        "end": 60391297
+      }
+    ],
+    "three_prime_utr": [],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000560466.5",
+    "transcript_id_base": "ENST00000560466",
+    "transcript_name": "ANXA2-232",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60351733,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "cds_end_NF",
+      "mRNA_end_NF"
+    ],
+    "exons": [
+      {
+        "start": 60351733,
+        "end": 60351819,
+        "exon_number": 8
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 7
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 6
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 5
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 4
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 3
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60351733,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60360946,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60360947,
+        "end": 60361054
+      },
+      {
+        "start": 60364429,
+        "end": 60364523
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000560936.2",
+    "transcript_id_base": "ENST00000560936",
+    "transcript_name": "ANXA2-236",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60395645,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding_CDS_not_defined",
+    "source": "havana",
+    "tags": [],
+    "exons": [
+      {
+        "start": 60395645,
+        "end": 60396427,
+        "exon_number": 3
+      },
+      {
+        "start": 60397258,
+        "end": 60397338,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [],
+    "five_prime_utr": [],
+    "three_prime_utr": [],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000561022.5",
+    "transcript_id_base": "ENST00000561022",
+    "transcript_name": "ANXA2-237",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60351787,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "nonsense_mediated_decay",
+    "source": "havana",
+    "tags": [],
+    "exons": [
+      {
+        "start": 60351787,
+        "end": 60351819,
+        "exon_number": 11
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 10
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 9
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 8
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 7
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 6
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 5
+      },
+      {
+        "start": 60374619,
+        "end": 60374682,
+        "exon_number": 4
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 3
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60374624,
+        "end": 60374682,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60351787,
+        "end": 60351819
+      },
+      {
+        "start": 60352383,
+        "end": 60352476
+      },
+      {
+        "start": 60354154,
+        "end": 60354213
+      },
+      {
+        "start": 60355919,
+        "end": 60355998
+      },
+      {
+        "start": 60357146,
+        "end": 60357236
+      },
+      {
+        "start": 60360941,
+        "end": 60361054
+      },
+      {
+        "start": 60364429,
+        "end": 60364523
+      },
+      {
+        "start": 60374619,
+        "end": 60374620
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000678450.1",
+    "transcript_id_base": "ENST00000678450",
+    "transcript_name": "ANXA2-243",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347144,
+    "end": 60397985,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347144,
+        "end": 60347689,
+        "exon_number": 15
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 14
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 13
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 12
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 11
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 10
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 9
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 8
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 7
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 6
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 5
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 4
+      },
+      {
+        "start": 60393013,
+        "end": 60393440,
+        "exon_number": 3
+      },
+      {
+        "start": 60397258,
+        "end": 60397338,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397985,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60393013,
+        "end": 60393440
+      },
+      {
+        "start": 60397258,
+        "end": 60397338
+      },
+      {
+        "start": 60397943,
+        "end": 60397985
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347144,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000678796.1",
+    "transcript_id_base": "ENST00000678796",
+    "transcript_name": "ANXA2-244",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347330,
+    "end": 60398077,
+    "strand": "-",
+    "biotype": "retained_intron",
+    "source": "havana",
+    "tags": [],
+    "exons": [
+      {
+        "start": 60347330,
+        "end": 60347689,
+        "exon_number": 12
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 11
+      },
+      {
+        "start": 60351193,
+        "end": 60351819,
+        "exon_number": 10
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 9
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 8
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 7
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 6
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 5
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 4
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 3
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60398077,
+        "exon_number": 1
+      }
+    ],
+    "cds": [],
+    "five_prime_utr": [],
+    "three_prime_utr": [],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000861992.1",
+    "transcript_id_base": "ENST00000861992",
+    "transcript_name": "ANXA2-248",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347137,
+    "end": 60398001,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347137,
+        "end": 60347689,
+        "exon_number": 15
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 14
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 13
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 12
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 11
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 10
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 9
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 8
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 7
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 6
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 5
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 4
+      },
+      {
+        "start": 60396151,
+        "end": 60396427,
+        "exon_number": 3
+      },
+      {
+        "start": 60397258,
+        "end": 60397338,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60398001,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60396151,
+        "end": 60396427
+      },
+      {
+        "start": 60397258,
+        "end": 60397338
+      },
+      {
+        "start": 60397943,
+        "end": 60398001
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347137,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000861993.1",
+    "transcript_id_base": "ENST00000861993",
+    "transcript_name": "ANXA2-249",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347332,
+    "end": 60398001,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347332,
+        "end": 60347689,
+        "exon_number": 13
+      },
+      {
+        "start": 60349075,
+        "end": 60349191,
+        "exon_number": 12
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 11
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 10
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 9
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 8
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 7
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 6
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 5
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 4
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 3
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60398001,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349191,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60397943,
+        "end": 60398001
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347332,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000861994.1",
+    "transcript_id_base": "ENST00000861994",
+    "transcript_name": "ANXA2-250",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347326,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347326,
+        "end": 60347689,
+        "exon_number": 10
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 9
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 8
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 7
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 6
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 5
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 4
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 3
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347326,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000861995.1",
+    "transcript_id_base": "ENST00000861995",
+    "transcript_name": "ANXA2-251",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347326,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347326,
+        "end": 60347689,
+        "exon_number": 16
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 15
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 14
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 13
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 12
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 11
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 10
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 9
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 8
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 7
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 6
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 5
+      },
+      {
+        "start": 60390213,
+        "end": 60390317,
+        "exon_number": 4
+      },
+      {
+        "start": 60396151,
+        "end": 60396427,
+        "exon_number": 3
+      },
+      {
+        "start": 60397258,
+        "end": 60397338,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60390213,
+        "end": 60390317
+      },
+      {
+        "start": 60396151,
+        "end": 60396427
+      },
+      {
+        "start": 60397258,
+        "end": 60397338
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347326,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000861997.1",
+    "transcript_id_base": "ENST00000861997",
+    "transcript_name": "ANXA2-253",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347332,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347332,
+        "end": 60347689,
+        "exon_number": 15
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 14
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 13
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 12
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 11
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 10
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 9
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 8
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 7
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 6
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 5
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 4
+      },
+      {
+        "start": 60396373,
+        "end": 60396427,
+        "exon_number": 3
+      },
+      {
+        "start": 60397258,
+        "end": 60397338,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60396373,
+        "end": 60396427
+      },
+      {
+        "start": 60397258,
+        "end": 60397338
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347332,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000861998.1",
+    "transcript_id_base": "ENST00000861998",
+    "transcript_name": "ANXA2-254",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347332,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347332,
+        "end": 60347689,
+        "exon_number": 15
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 14
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 13
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 12
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 11
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 10
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 9
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 8
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 7
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 6
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 5
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 4
+      },
+      {
+        "start": 60393013,
+        "end": 60393440,
+        "exon_number": 3
+      },
+      {
+        "start": 60396280,
+        "end": 60396427,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60393013,
+        "end": 60393440
+      },
+      {
+        "start": 60396280,
+        "end": 60396427
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347332,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000862000.1",
+    "transcript_id_base": "ENST00000862000",
+    "transcript_name": "ANXA2-256",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347338,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347338,
+        "end": 60347689,
+        "exon_number": 14
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 13
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 12
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 11
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 10
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 9
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 8
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 7
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 6
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 5
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 4
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 3
+      },
+      {
+        "start": 60396016,
+        "end": 60396427,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60396016,
+        "end": 60396427
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347338,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000862002.1",
+    "transcript_id_base": "ENST00000862002",
+    "transcript_name": "ANXA2-258",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347332,
+    "end": 60397543,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347332,
+        "end": 60347689,
+        "exon_number": 13
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 12
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 11
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 10
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 9
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 8
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 7
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 6
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 5
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 4
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 3
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 2
+      },
+      {
+        "start": 60397258,
+        "end": 60397543,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60397258,
+        "end": 60397543
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347332,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000862006.1",
+    "transcript_id_base": "ENST00000862006",
+    "transcript_name": "ANXA2-262",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347332,
+    "end": 60394840,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347332,
+        "end": 60347689,
+        "exon_number": 13
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 12
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 11
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 10
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 9
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 8
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 7
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 6
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 5
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 4
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 3
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 2
+      },
+      {
+        "start": 60394377,
+        "end": 60394840,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60394377,
+        "end": 60394840
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347332,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000862008.1",
+    "transcript_id_base": "ENST00000862008",
+    "transcript_name": "ANXA2-264",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347335,
+    "end": 60392199,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347335,
+        "end": 60347689,
+        "exon_number": 13
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 12
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 11
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 10
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 9
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 8
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 7
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 6
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 5
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 4
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 3
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 2
+      },
+      {
+        "start": 60392095,
+        "end": 60392199,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60392095,
+        "end": 60392199
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347335,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000862009.1",
+    "transcript_id_base": "ENST00000862009",
+    "transcript_name": "ANXA2-265",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347328,
+    "end": 60387551,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "CCDS",
+      "gencode_basic",
+      "gencode_primary"
+    ],
+    "exons": [
+      {
+        "start": 60347328,
+        "end": 60347689,
+        "exon_number": 12
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 11
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 10
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 9
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 8
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 7
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 6
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 5
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 4
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 3
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 2
+      },
+      {
+        "start": 60386028,
+        "end": 60387551,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60387551
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347328,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000911891.1",
+    "transcript_id_base": "ENST00000911891",
+    "transcript_name": "ANXA2-266",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347332,
+    "end": 60398074,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347332,
+        "end": 60347689,
+        "exon_number": 15
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 14
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 13
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 12
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 11
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 10
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 9
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 8
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 7
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 6
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 5
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 4
+      },
+      {
+        "start": 60395830,
+        "end": 60396427,
+        "exon_number": 3
+      },
+      {
+        "start": 60397258,
+        "end": 60397338,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60398074,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60395830,
+        "end": 60396427
+      },
+      {
+        "start": 60397258,
+        "end": 60397338
+      },
+      {
+        "start": 60397943,
+        "end": 60398074
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347332,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000911892.1",
+    "transcript_id_base": "ENST00000911892",
+    "transcript_name": "ANXA2-267",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347331,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347331,
+        "end": 60347689,
+        "exon_number": 12
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 11
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 10
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 9
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 8
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 7
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 6
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 5
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 4
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 3
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347331,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000911893.1",
+    "transcript_id_base": "ENST00000911893",
+    "transcript_name": "ANXA2-268",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347332,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347332,
+        "end": 60347689,
+        "exon_number": 13
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 12
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 11
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 10
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 9
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 8
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 7
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 6
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 5
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 4
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 3
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 2
+      },
+      {
+        "start": 60397894,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60397894,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347332,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000971922.1",
+    "transcript_id_base": "ENST00000971922",
+    "transcript_name": "ANXA2-270",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347328,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347328,
+        "end": 60347689,
+        "exon_number": 12
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 11
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 10
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 9
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 8
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 7
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 6
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 5
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 4
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 3
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347328,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000971926.1",
+    "transcript_id_base": "ENST00000971926",
+    "transcript_name": "ANXA2-274",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347328,
+    "end": 60397978,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "CCDS",
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347328,
+        "end": 60347689,
+        "exon_number": 15
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 14
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 13
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 12
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 11
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 10
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 9
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 8
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 7
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 6
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 5
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 4
+      },
+      {
+        "start": 60390213,
+        "end": 60390317,
+        "exon_number": 3
+      },
+      {
+        "start": 60393038,
+        "end": 60393440,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397978,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60390213,
+        "end": 60390317
+      },
+      {
+        "start": 60393038,
+        "end": 60393440
+      },
+      {
+        "start": 60397943,
+        "end": 60397978
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347328,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000971931.1",
+    "transcript_id_base": "ENST00000971931",
+    "transcript_name": "ANXA2-279",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347339,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "gencode_basic",
+      "gencode_primary"
+    ],
+    "exons": [
+      {
+        "start": 60347339,
+        "end": 60347689,
+        "exon_number": 13
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "exon_number": 12
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 11
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 10
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 9
+      },
+      {
+        "start": 60354115,
+        "end": 60354213,
+        "exon_number": 8
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 7
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 6
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 5
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 4
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 3
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349197,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354115,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347339,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  },
+  {
+    "transcript_id": "ENST00000971934.1",
+    "transcript_id_base": "ENST00000971934",
+    "transcript_name": "ANXA2-282",
+    "gene_id": "ENSG00000182718",
+    "gene_id_version": "ENSG00000182718.19",
+    "gene_name": "ANXA2",
+    "chrom": "15",
+    "start": 60347443,
+    "end": 60397986,
+    "strand": "-",
+    "biotype": "protein_coding",
+    "source": "havana_tagene",
+    "tags": [
+      "gencode_basic"
+    ],
+    "exons": [
+      {
+        "start": 60347443,
+        "end": 60347689,
+        "exon_number": 14
+      },
+      {
+        "start": 60349075,
+        "end": 60349191,
+        "exon_number": 13
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "exon_number": 12
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "exon_number": 11
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "exon_number": 10
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "exon_number": 9
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "exon_number": 8
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "exon_number": 7
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "exon_number": 6
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "exon_number": 5
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "exon_number": 4
+      },
+      {
+        "start": 60386028,
+        "end": 60386086,
+        "exon_number": 3
+      },
+      {
+        "start": 60396151,
+        "end": 60396427,
+        "exon_number": 2
+      },
+      {
+        "start": 60397943,
+        "end": 60397986,
+        "exon_number": 1
+      }
+    ],
+    "cds": [
+      {
+        "start": 60347633,
+        "end": 60347689,
+        "phase": 0
+      },
+      {
+        "start": 60349075,
+        "end": 60349191,
+        "phase": 0
+      },
+      {
+        "start": 60351193,
+        "end": 60351251,
+        "phase": 2
+      },
+      {
+        "start": 60351724,
+        "end": 60351819,
+        "phase": 2
+      },
+      {
+        "start": 60352383,
+        "end": 60352476,
+        "phase": 0
+      },
+      {
+        "start": 60354154,
+        "end": 60354213,
+        "phase": 0
+      },
+      {
+        "start": 60355919,
+        "end": 60355998,
+        "phase": 2
+      },
+      {
+        "start": 60357146,
+        "end": 60357236,
+        "phase": 0
+      },
+      {
+        "start": 60360941,
+        "end": 60361054,
+        "phase": 0
+      },
+      {
+        "start": 60364429,
+        "end": 60364523,
+        "phase": 2
+      },
+      {
+        "start": 60382342,
+        "end": 60382441,
+        "phase": 0
+      },
+      {
+        "start": 60386028,
+        "end": 60386075,
+        "phase": 0
+      }
+    ],
+    "five_prime_utr": [
+      {
+        "start": 60386076,
+        "end": 60386086
+      },
+      {
+        "start": 60396151,
+        "end": 60396427
+      },
+      {
+        "start": 60397943,
+        "end": 60397986
+      }
+    ],
+    "three_prime_utr": [
+      {
+        "start": 60347443,
+        "end": 60347629
+      }
+    ],
+    "is_mane_select": false,
+    "is_ensembl_canonical": false
+  }
+]

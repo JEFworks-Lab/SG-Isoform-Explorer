@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Splice junctions",
+  "type": "object",
+  "required": [
+    "gene_id",
+    "sample_id",
+    "junctions"
+  ],
+  "properties": {
+    "gene_id": {"type": "string"},
+    "sample_id": {"type": "string"},
+    "coordinate_system": {"const": "1-based inclusive exon-edge coordinates"},
+    "source": {"const": "final STAR SJ.out.tab"},
+    "junctions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "donor",
+          "acceptor",
+          "count",
+          "unique_mapping_count",
+          "multi_mapping_count",
+          "evidence_class",
+          "maximum_overhang",
+          "star_intron_start",
+          "star_intron_end",
+          "strand_code",
+          "motif_code",
+          "star_annotated",
+          "matches_subset_annotation",
+          "matching_transcript_ids"
+        ],
+        "properties": {
+          "donor": {"type": "integer"},
+          "acceptor": {"type": "integer"},
+          "count": {"type": "integer", "minimum": 0},
+          "unique_mapping_count": {"type": "integer", "minimum": 0},
+          "multi_mapping_count": {"type": "integer", "minimum": 0},
+          "evidence_class": {"enum": ["unique_supported", "multi_mapping_only"]},
+          "matches_subset_annotation": {"type": "boolean"},
+          "matching_transcript_ids": {"type": "array", "items": {"type": "string"}}
+        }
+      }
+    }
+  }
+}

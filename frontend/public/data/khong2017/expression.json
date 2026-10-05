@@ -1,0 +1,3694 @@
+{
+  "unit": "TPM",
+  "conditions": [
+    "SG",
+    "Total"
+  ],
+  "transcripts": [
+    {
+      "gene_id": "ENSG00000126247",
+      "transcript_id": "ENST00000246533.8",
+      "transcript_name": "CAPNS1-201",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 5.914734,
+          "num_reads": 155.443
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 7.068201,
+          "num_reads": 187.931
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 2.576526,
+          "num_reads": 45.438
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 11.934078,
+          "num_reads": 191.21
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 10.875754,
+          "num_reads": 163.855
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 4.327645,
+          "replicate_tpm": [
+            5.914734,
+            7.068201,
+            0.0
+          ]
+        },
+        "Total": {
+          "mean_tpm": 8.462119333333334,
+          "replicate_tpm": [
+            2.576526,
+            11.934078,
+            10.875754
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -0.965810925127651,
+        "swish_log2fc": -1.19173077847893,
+        "stat": -2.2,
+        "pvalue": 0.251641051492647,
+        "locfdr": 1.0,
+        "qvalue": 0.384751475730346,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000126247",
+      "transcript_id": "ENST00000586851.5",
+      "transcript_name": "CAPNS1-202",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 55.966027,
+          "num_reads": 423.971
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 38.408351,
+          "num_reads": 293.971
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 43.255509,
+          "num_reads": 337.921
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 41.066641,
+          "num_reads": 199.575
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 38.642121,
+          "num_reads": 172.468
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 30.70018,
+          "num_reads": 128.647
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 45.876629,
+          "replicate_tpm": [
+            55.966027,
+            38.408351,
+            43.255509
+          ]
+        },
+        "Total": {
+          "mean_tpm": 36.80298066666666,
+          "replicate_tpm": [
+            41.066641,
+            38.642121,
+            30.70018
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 0.317859258657308,
+        "swish_log2fc": -0.00575100384671057,
+        "stat": 0.233333333333333,
+        "pvalue": 0.910500909850981,
+        "locfdr": 1.0,
+        "qvalue": 0.941968581059594,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000126247",
+      "transcript_id": "ENST00000588815.5",
+      "transcript_name": "CAPNS1-206",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.368233,
+          "num_reads": 10.681
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 0.133439,
+          "num_reads": 3.9
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 1.266801,
+          "num_reads": 37.761
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 3.075219,
+          "num_reads": 53.402
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 0.737124,
+          "num_reads": 12.009
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 0.589491,
+          "replicate_tpm": [
+            0.368233,
+            0.133439,
+            1.266801
+          ]
+        },
+        "Total": {
+          "mean_tpm": 1.2707810000000002,
+          "replicate_tpm": [
+            0.0,
+            3.075219,
+            0.737124
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -1.09521381106435,
+        "swish_log2fc": -0.862423658481576,
+        "stat": -0.6,
+        "pvalue": 0.776893473663503,
+        "locfdr": 1.0,
+        "qvalue": 0.854538692488707,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000126247",
+      "transcript_id": "ENST00000589146.5",
+      "transcript_name": "CAPNS1-207",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.937166,
+          "num_reads": 11.106
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 1.203574,
+          "num_reads": 14.348
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 2.110741,
+          "num_reads": 25.486
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 2.348511,
+          "num_reads": 16.222
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 2.439193,
+          "num_reads": 15.78
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 2.667195,
+          "num_reads": 16.722
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 1.4171603333333334,
+          "replicate_tpm": [
+            0.937166,
+            1.203574,
+            2.110741
+          ]
+        },
+        "Total": {
+          "mean_tpm": 2.484966333333333,
+          "replicate_tpm": [
+            2.348511,
+            2.439193,
+            2.667195
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -0.805872925715629,
+        "swish_log2fc": -0.777703769048644,
+        "stat": -3.0,
+        "pvalue": 0.114611960851817,
+        "locfdr": 0.7267225321694,
+        "qvalue": 0.214833371744642,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000126247",
+      "transcript_id": "ENST00000589162.1",
+      "transcript_name": "CAPNS1-208",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.188616,
+          "num_reads": 2.16
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 0.190765,
+          "num_reads": 2.2
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.93343,
+          "num_reads": 10.974
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 1.826492,
+          "num_reads": 14.039
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 1.89731,
+          "num_reads": 13.139
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 1.591392,
+          "num_reads": 10.154
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 0.43760366666666667,
+          "replicate_tpm": [
+            0.188616,
+            0.190765,
+            0.93343
+          ]
+        },
+        "Total": {
+          "mean_tpm": 1.7717313333333333,
+          "replicate_tpm": [
+            1.826492,
+            1.89731,
+            1.591392
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -1.99298605005881,
+        "swish_log2fc": -1.36865744116077,
+        "stat": -4.3,
+        "pvalue": 0.03237385039099,
+        "locfdr": 0.205736379132452,
+        "qvalue": 0.11023780615449,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000126247",
+      "transcript_id": "ENST00000590049.5",
+      "transcript_name": "CAPNS1-209",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 67.678725,
+          "num_reads": 366.601
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 88.708771,
+          "num_reads": 441.232
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 100.875784,
+          "num_reads": 469.995
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 0.0,
+          "replicate_tpm": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "Total": {
+          "mean_tpm": 85.75442666666667,
+          "replicate_tpm": [
+            67.678725,
+            88.708771,
+            100.875784
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -13.0661636560039,
+        "swish_log2fc": -6.93744153990747,
+        "stat": -4.5,
+        "pvalue": 1.22952835292382e-07,
+        "locfdr": 1.46913696785493e-06,
+        "qvalue": 5.98479861152672e-07,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": true,
+        "call": "depleted"
+      }
+    },
+    {
+      "gene_id": "ENSG00000126247",
+      "transcript_id": "ENST00000590211.5",
+      "transcript_name": "CAPNS1-210",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 148.61199,
+          "num_reads": 585.836
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 111.706019,
+          "num_reads": 446.456
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 113.338856,
+          "num_reads": 447.042
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 124.55228833333332,
+          "replicate_tpm": [
+            148.61199,
+            111.706019,
+            113.338856
+          ]
+        },
+        "Total": {
+          "mean_tpm": 0.0,
+          "replicate_tpm": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 13.6045797330677,
+        "swish_log2fc": 5.13892149710335,
+        "stat": 4.5,
+        "pvalue": 1.22952835292382e-07,
+        "locfdr": 1.46913696785493e-06,
+        "qvalue": 5.98479861152672e-07,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": true,
+        "call": "enriched"
+      }
+    },
+    {
+      "gene_id": "ENSG00000126247",
+      "transcript_id": "ENST00000628306.2",
+      "transcript_name": "CAPNS1-216",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 3.402623,
+          "num_reads": 93.57
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 1.378261,
+          "num_reads": 38.258
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 1.215395,
+          "num_reads": 22.154
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 2.746969,
+          "num_reads": 45.539
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 0.5942,
+          "num_reads": 9.276
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 1.593628,
+          "replicate_tpm": [
+            3.402623,
+            1.378261,
+            0.0
+          ]
+        },
+        "Total": {
+          "mean_tpm": 1.5188546666666667,
+          "replicate_tpm": [
+            1.215395,
+            2.746969,
+            0.5942
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 0.0688882426255717,
+        "swish_log2fc": -0.599521483227898,
+        "stat": -1.26666666666667,
+        "pvalue": 0.538705798455712,
+        "locfdr": 1.0,
+        "qvalue": 0.671952947671922,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000126247",
+      "transcript_id": "ENST00000856038.1",
+      "transcript_name": "CAPNS1-217",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 5.331174,
+          "num_reads": 141.208
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 2.194775,
+          "num_reads": 58.843
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 1.579201,
+          "num_reads": 42.778
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 10.543885,
+          "num_reads": 187.206
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 11.895962,
+          "num_reads": 192.03
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 2.476816,
+          "num_reads": 37.618
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 3.03505,
+          "replicate_tpm": [
+            5.331174,
+            2.194775,
+            1.579201
+          ]
+        },
+        "Total": {
+          "mean_tpm": 8.305554333333333,
+          "replicate_tpm": [
+            10.543885,
+            11.895962,
+            2.476816
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -1.44934652246523,
+        "swish_log2fc": -1.68391389976135,
+        "stat": -2.6,
+        "pvalue": 0.16980044754832,
+        "locfdr": 1.0,
+        "qvalue": 0.285872404727897,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000126247",
+      "transcript_id": "ENST00000940677.1",
+      "transcript_name": "CAPNS1-220",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 170.601786,
+          "num_reads": 4187.893
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 154.926946,
+          "num_reads": 3843.707
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 174.504876,
+          "num_reads": 4389.66
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 213.471156,
+          "num_reads": 3535.777
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 206.921337,
+          "num_reads": 3109.922
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 179.2539,
+          "num_reads": 2529.194
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 166.67786933333332,
+          "replicate_tpm": [
+            170.601786,
+            154.926946,
+            174.504876
+          ]
+        },
+        "Total": {
+          "mean_tpm": 199.882131,
+          "replicate_tpm": [
+            213.471156,
+            206.921337,
+            179.2539
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -0.262072563347433,
+        "swish_log2fc": -0.534991687667359,
+        "stat": -4.5,
+        "pvalue": 1.22952835292382e-07,
+        "locfdr": 1.46913696785493e-06,
+        "qvalue": 5.98479861152672e-07,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000126247",
+      "transcript_id": "ENST00000959933.1",
+      "transcript_name": "CAPNS1-224",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 0.317516,
+          "num_reads": 9.6
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.416822,
+          "num_reads": 12.874
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 1.517816,
+          "num_reads": 30.132
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 0.461389,
+          "num_reads": 8.287
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 0.808546,
+          "num_reads": 13.611
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 0.24477933333333335,
+          "replicate_tpm": [
+            0.0,
+            0.317516,
+            0.416822
+          ]
+        },
+        "Total": {
+          "mean_tpm": 0.9292503333333334,
+          "replicate_tpm": [
+            1.517816,
+            0.461389,
+            0.808546
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -1.88226146610233,
+        "swish_log2fc": -1.63848496739773,
+        "stat": -2.76666666666667,
+        "pvalue": 0.144164904342694,
+        "locfdr": 0.9333528797173,
+        "qvalue": 0.253228084573354,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000451270.7",
+      "transcript_name": "ANXA2-204",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 9.319552,
+          "num_reads": 251.425
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 17.416187,
+          "num_reads": 472.403
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 13.882653,
+          "num_reads": 386.94
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 6.485214,
+          "num_reads": 116.824
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 6.722216,
+          "num_reads": 108.455
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 5.543573,
+          "num_reads": 81.871
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 13.539464,
+          "replicate_tpm": [
+            9.319552,
+            17.416187,
+            13.882653
+          ]
+        },
+        "Total": {
+          "mean_tpm": 6.250334333333334,
+          "replicate_tpm": [
+            6.485214,
+            6.722216,
+            5.543573
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 1.11392416998279,
+        "swish_log2fc": 0.782130551613354,
+        "stat": 3.53333333333333,
+        "pvalue": 0.0665996163871539,
+        "locfdr": 0.357481619388913,
+        "qvalue": 0.148337167269142,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000332680.8",
+      "transcript_name": "ANXA2-201",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 10.752542,
+          "num_reads": 259.819
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 9.009861,
+          "num_reads": 218.723
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 10.191731,
+          "num_reads": 254.718
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 7.620438,
+          "num_reads": 120.733
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 6.381515,
+          "num_reads": 91.0
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 8.384579,
+          "num_reads": 109.979
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 9.984711333333335,
+          "replicate_tpm": [
+            10.752542,
+            9.009861,
+            10.191731
+          ]
+        },
+        "Total": {
+          "mean_tpm": 7.462177333333334,
+          "replicate_tpm": [
+            7.620438,
+            6.381515,
+            8.384579
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 0.419636205546364,
+        "swish_log2fc": 0.160199010070333,
+        "stat": 1.33333333333333,
+        "pvalue": 0.515066640436728,
+        "locfdr": 1.0,
+        "qvalue": 0.651296641791045,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000396024.7",
+      "transcript_name": "ANXA2-202",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 4.51716,
+          "num_reads": 132.962
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 3.386432,
+          "num_reads": 100.27
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 3.699781,
+          "num_reads": 112.386
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 2.6431,
+          "num_reads": 52.362
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 3.996229,
+          "num_reads": 70.863
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 3.281306,
+          "num_reads": 53.178
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 3.867791,
+          "replicate_tpm": [
+            4.51716,
+            3.386432,
+            3.699781
+          ]
+        },
+        "Total": {
+          "mean_tpm": 3.3068783333333336,
+          "replicate_tpm": [
+            2.6431,
+            3.996229,
+            3.281306
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 0.225408955599784,
+        "swish_log2fc": -0.0867594335643256,
+        "stat": -0.133333333333333,
+        "pvalue": 0.946405227954557,
+        "locfdr": 1.0,
+        "qvalue": 0.963270636231666,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000421017.6",
+      "transcript_name": "ANXA2-203",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 267.986328,
+          "num_reads": 6467.301
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 202.105286,
+          "num_reads": 4909.19
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 249.384222,
+          "num_reads": 6219.782
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 323.077107,
+          "num_reads": 5181.728
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 292.218344,
+          "num_reads": 4214.622
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 240.096582,
+          "num_reads": 3181.586
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 239.8252786666667,
+          "replicate_tpm": [
+            267.986328,
+            202.105286,
+            249.384222
+          ]
+        },
+        "Total": {
+          "mean_tpm": 285.1306776666667,
+          "replicate_tpm": [
+            323.077107,
+            292.218344,
+            240.096582
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -0.249629978122091,
+        "swish_log2fc": -0.518115209947884,
+        "stat": -4.3,
+        "pvalue": 0.03237385039099,
+        "locfdr": 0.205736379132452,
+        "qvalue": 0.11023780615449,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000557906.6",
+      "transcript_name": "ANXA2-207",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 0.454772,
+          "num_reads": 15.71
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 1.396428,
+          "num_reads": 31.915
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 1.009065,
+          "num_reads": 20.668
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 0.560453,
+          "num_reads": 10.525
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 0.15159066666666668,
+          "replicate_tpm": [
+            0.0,
+            0.454772,
+            0.0
+          ]
+        },
+        "Total": {
+          "mean_tpm": 0.9886486666666667,
+          "replicate_tpm": [
+            1.396428,
+            1.009065,
+            0.560453
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -2.6276333428345,
+        "swish_log2fc": -2.08444625122197,
+        "stat": -3.36666666666667,
+        "pvalue": 0.0794569173265136,
+        "locfdr": 0.455516692927931,
+        "qvalue": 0.166693922822947,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000557986.5",
+      "transcript_name": "ANXA2-209",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 14.096419,
+          "num_reads": 176.448
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 14.911847,
+          "num_reads": 187.356
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 10.870707,
+          "num_reads": 141.294
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 34.787675,
+          "num_reads": 276.802
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 40.450372,
+          "num_reads": 292.087
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 45.267941,
+          "num_reads": 304.93
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 13.292991,
+          "replicate_tpm": [
+            14.096419,
+            14.911847,
+            10.870707
+          ]
+        },
+        "Total": {
+          "mean_tpm": 40.16866266666667,
+          "replicate_tpm": [
+            34.787675,
+            40.450372,
+            45.267941
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -1.59467889232444,
+        "swish_log2fc": -1.82328673267927,
+        "stat": -4.5,
+        "pvalue": 1.22952835292382e-07,
+        "locfdr": 1.46913696785493e-06,
+        "qvalue": 5.98479861152672e-07,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": true,
+        "call": "depleted"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000558503.6",
+      "transcript_name": "ANXA2-212",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 3.924486,
+          "num_reads": 45.33
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 1.189341,
+          "num_reads": 13.9
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.741228,
+          "num_reads": 8.782
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 7.332433,
+          "num_reads": 57.08
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 5.889055,
+          "num_reads": 41.471
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 8.003856,
+          "num_reads": 51.803
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 1.9516850000000001,
+          "replicate_tpm": [
+            3.924486,
+            1.189341,
+            0.741228
+          ]
+        },
+        "Total": {
+          "mean_tpm": 7.075114666666667,
+          "replicate_tpm": [
+            7.332433,
+            5.889055,
+            8.003856
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -1.85269780453642,
+        "swish_log2fc": -1.86396032996102,
+        "stat": -4.3,
+        "pvalue": 0.03237385039099,
+        "locfdr": 0.205736379132452,
+        "qvalue": 0.11023780615449,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000558985.6",
+      "transcript_name": "ANXA2-214",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 3.893731,
+          "num_reads": 94.632
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 3.45096,
+          "num_reads": 84.278
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 13.017986,
+          "num_reads": 209.608
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 16.826425,
+          "num_reads": 242.895
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 17.151199,
+          "num_reads": 226.817
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 2.448230333333333,
+          "replicate_tpm": [
+            3.893731,
+            3.45096,
+            0.0
+          ]
+        },
+        "Total": {
+          "mean_tpm": 15.665203333333332,
+          "replicate_tpm": [
+            13.017986,
+            16.826425,
+            17.151199
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -2.67279215128135,
+        "swish_log2fc": -2.75913315895562,
+        "stat": -4.5,
+        "pvalue": 1.22952835292382e-07,
+        "locfdr": 1.46913696785493e-06,
+        "qvalue": 5.98479861152672e-07,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": true,
+        "call": "depleted"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000558986.5",
+      "transcript_name": "ANXA2-215",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 49.350452,
+          "num_reads": 300.142
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 17.511557,
+          "num_reads": 108.08
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 27.469772,
+          "num_reads": 170.484
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 11.415593,
+          "num_reads": 43.595
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 12.09355,
+          "num_reads": 42.853
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 31.443927,
+          "replicate_tpm": [
+            49.350452,
+            17.511557,
+            27.469772
+          ]
+        },
+        "Total": {
+          "mean_tpm": 7.836381,
+          "replicate_tpm": [
+            0.0,
+            11.415593,
+            12.09355
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 2.00314085200583,
+        "swish_log2fc": 1.66853667813472,
+        "stat": 3.66666666666667,
+        "pvalue": 0.0592946195839276,
+        "locfdr": 0.30642565026849,
+        "qvalue": 0.139134762413087,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000558998.5",
+      "transcript_name": "ANXA2-216",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.621552,
+          "num_reads": 3.798
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 0.550982,
+          "num_reads": 3.392
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.555517,
+          "num_reads": 3.498
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 23.947264,
+          "num_reads": 93.262
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 18.800828,
+          "num_reads": 67.157
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 7.428827,
+          "num_reads": 24.816
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 0.576017,
+          "replicate_tpm": [
+            0.621552,
+            0.550982,
+            0.555517
+          ]
+        },
+        "Total": {
+          "mean_tpm": 16.725639666666666,
+          "replicate_tpm": [
+            23.947264,
+            18.800828,
+            7.428827
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -4.83583736732007,
+        "swish_log2fc": -3.64130135903167,
+        "stat": -4.33333333333333,
+        "pvalue": 0.0309729257856686,
+        "locfdr": 0.205736379132452,
+        "qvalue": 0.109307038097718,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000559113.6",
+      "transcript_name": "ANXA2-217",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.179351,
+          "num_reads": 4.896
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.896785,
+          "num_reads": 25.312
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 1.015342,
+          "num_reads": 18.485
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 0.149699,
+          "num_reads": 2.439
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 0.906701,
+          "num_reads": 13.52
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 0.358712,
+          "replicate_tpm": [
+            0.179351,
+            0.0,
+            0.896785
+          ]
+        },
+        "Total": {
+          "mean_tpm": 0.6905806666666666,
+          "replicate_tpm": [
+            1.015342,
+            0.149699,
+            0.906701
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -0.926056805097574,
+        "swish_log2fc": -0.813451945440809,
+        "stat": -1.9,
+        "pvalue": 0.32897617174052,
+        "locfdr": 1.0,
+        "qvalue": 0.47008485891985,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000559176.5",
+      "transcript_name": "ANXA2-218",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 975.012336,
+          "num_reads": 8061.718
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 893.593729,
+          "num_reads": 7500.453
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 1080.054289,
+          "num_reads": 9186.141
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 1409.795201,
+          "num_reads": 7692.196
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 1319.053588,
+          "num_reads": 6567.059
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 1479.695802,
+          "num_reads": 6835.003
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 982.8867846666667,
+          "replicate_tpm": [
+            975.012336,
+            893.593729,
+            1080.054289
+          ]
+        },
+        "Total": {
+          "mean_tpm": 1402.848197,
+          "replicate_tpm": [
+            1409.795201,
+            1319.053588,
+            1479.695802
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -0.513257356303512,
+        "swish_log2fc": -0.785208501228179,
+        "stat": -4.5,
+        "pvalue": 1.22952835292382e-07,
+        "locfdr": 1.46913696785493e-06,
+        "qvalue": 5.98479861152672e-07,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000559350.5",
+      "transcript_name": "ANXA2-219",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 2.347102,
+          "num_reads": 18.887
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 2.224034,
+          "num_reads": 18.106
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.409621,
+          "num_reads": 3.379
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 1.983866,
+          "num_reads": 11.191
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 5.594187,
+          "num_reads": 28.433
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 2.234335,
+          "num_reads": 10.453
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 1.6602523333333334,
+          "replicate_tpm": [
+            2.347102,
+            2.224034,
+            0.409621
+          ]
+        },
+        "Total": {
+          "mean_tpm": 3.2707960000000003,
+          "replicate_tpm": [
+            1.983866,
+            5.594187,
+            2.234335
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -0.973979815536199,
+        "swish_log2fc": -1.01938295080439,
+        "stat": -2.53333333333333,
+        "pvalue": 0.181215757635371,
+        "locfdr": 1.0,
+        "qvalue": 0.299931623931624,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000559467.5",
+      "transcript_name": "ANXA2-221",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.388254,
+          "num_reads": 5.851
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 0.568372,
+          "num_reads": 8.575
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.699252,
+          "num_reads": 10.878
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 1.08129,
+          "num_reads": 10.342
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 0.644354,
+          "num_reads": 5.598
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 1.242537,
+          "num_reads": 10.085
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 0.5519593333333334,
+          "replicate_tpm": [
+            0.388254,
+            0.568372,
+            0.699252
+          ]
+        },
+        "Total": {
+          "mean_tpm": 0.9893936666666666,
+          "replicate_tpm": [
+            1.08129,
+            0.644354,
+            1.242537
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -0.830587343124783,
+        "swish_log2fc": -0.657350779162097,
+        "stat": -1.56666666666667,
+        "pvalue": 0.431235061230512,
+        "locfdr": 1.0,
+        "qvalue": 0.572951237441803,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000559559.5",
+      "transcript_name": "ANXA2-222",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 3.051046,
+          "num_reads": 40.927
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 3.025643,
+          "num_reads": 40.697
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 8.762357,
+          "num_reads": 79.09
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 14.4556,
+          "num_reads": 117.06
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 10.001782,
+          "num_reads": 74.606
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 2.025563,
+          "replicate_tpm": [
+            3.051046,
+            3.025643,
+            0.0
+          ]
+        },
+        "Total": {
+          "mean_tpm": 11.073246333333335,
+          "replicate_tpm": [
+            8.762357,
+            14.4556,
+            10.001782
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -2.44488073701976,
+        "swish_log2fc": -2.41212611941767,
+        "stat": -4.5,
+        "pvalue": 1.22952835292382e-07,
+        "locfdr": 1.46913696785493e-06,
+        "qvalue": 5.98479861152672e-07,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": true,
+        "call": "depleted"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000559725.5",
+      "transcript_name": "ANXA2-224",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 2.473492,
+          "num_reads": 15.209
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 12.295541,
+          "num_reads": 48.404
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 4.24594,
+          "num_reads": 15.303
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 1.853809,
+          "num_reads": 6.207
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 0.8244973333333333,
+          "replicate_tpm": [
+            0.0,
+            0.0,
+            2.473492
+          ]
+        },
+        "Total": {
+          "mean_tpm": 6.131763333333333,
+          "replicate_tpm": [
+            12.295541,
+            4.24594,
+            1.853809
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -2.87967357606068,
+        "swish_log2fc": -2.20194488598011,
+        "stat": -3.16666666666667,
+        "pvalue": 0.0970384350563124,
+        "locfdr": 0.593891231231819,
+        "qvalue": 0.190718911604079,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000559780.6",
+      "transcript_name": "ANXA2-225",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 8.761188,
+          "num_reads": 281.297
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 5.613798,
+          "num_reads": 181.517
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 8.829185,
+          "num_reads": 292.988
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 3.912485,
+          "num_reads": 84.989
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 9.36124,
+          "num_reads": 181.694
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 6.208563,
+          "num_reads": 110.021
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 7.734723666666667,
+          "replicate_tpm": [
+            8.761188,
+            5.613798,
+            8.829185
+          ]
+        },
+        "Total": {
+          "mean_tpm": 6.494096,
+          "replicate_tpm": [
+            3.912485,
+            9.36124,
+            6.208563
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 0.25186521262983,
+        "swish_log2fc": 0.209066061734273,
+        "stat": 0.2,
+        "pvalue": 0.922368440466237,
+        "locfdr": 1.0,
+        "qvalue": 0.949223342738925,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000559818.6",
+      "transcript_name": "ANXA2-226",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 1.288915,
+          "num_reads": 35.954
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 1.010413,
+          "num_reads": 28.339
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.982072,
+          "num_reads": 28.308
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 0.718077,
+          "num_reads": 13.368
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 0.308056,
+          "num_reads": 5.137
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 0.141522,
+          "num_reads": 2.161
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 1.0938,
+          "replicate_tpm": [
+            1.288915,
+            1.010413,
+            0.982072
+          ]
+        },
+        "Total": {
+          "mean_tpm": 0.3892183333333333,
+          "replicate_tpm": [
+            0.718077,
+            0.308056,
+            0.141522
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 1.46722891034102,
+        "swish_log2fc": 0.808539625311185,
+        "stat": 3.26666666666667,
+        "pvalue": 0.0878596370432302,
+        "locfdr": 0.521846648427328,
+        "qvalue": 0.178128427560076,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000559956.6",
+      "transcript_name": "ANXA2-227",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 4.718876,
+          "num_reads": 148.158
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 2.68181,
+          "num_reads": 84.671
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 5.133725,
+          "num_reads": 166.168
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 2.865593,
+          "num_reads": 59.917
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 3.818898,
+          "num_reads": 71.669
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 3.648637,
+          "num_reads": 62.745
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 4.178137,
+          "replicate_tpm": [
+            4.718876,
+            2.68181,
+            5.133725
+          ]
+        },
+        "Total": {
+          "mean_tpm": 3.444376,
+          "replicate_tpm": [
+            2.865593,
+            3.818898,
+            3.648637
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 0.277883510593336,
+        "swish_log2fc": 0.0506702012806528,
+        "stat": -0.2,
+        "pvalue": 0.922368440466237,
+        "locfdr": 1.0,
+        "qvalue": 0.949223342738925,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000560165.5",
+      "transcript_name": "ANXA2-229",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.748299,
+          "num_reads": 7.423
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 14.014154,
+          "num_reads": 139.328
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 31.602116,
+          "num_reads": 198.805
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 51.55027,
+          "num_reads": 296.144
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 37.925426,
+          "num_reads": 202.831
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 4.920817666666666,
+          "replicate_tpm": [
+            0.748299,
+            14.014154,
+            0.0
+          ]
+        },
+        "Total": {
+          "mean_tpm": 40.35927066666667,
+          "replicate_tpm": [
+            31.602116,
+            51.55027,
+            37.925426
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -3.0333587120308,
+        "swish_log2fc": -3.33947824252404,
+        "stat": -4.46666666666667,
+        "pvalue": 0.0228143903998426,
+        "locfdr": 0.205736379132452,
+        "qvalue": 0.0996477095752108,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000560389.5",
+      "transcript_name": "ANXA2-231",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 2.18904,
+          "num_reads": 13.519
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 198.809312,
+          "num_reads": 742.044
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 517.2136,
+          "num_reads": 1802.667
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 0.72968,
+          "replicate_tpm": [
+            0.0,
+            2.18904,
+            0.0
+          ]
+        },
+        "Total": {
+          "mean_tpm": 238.674304,
+          "replicate_tpm": [
+            0.0,
+            198.809312,
+            517.2136
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -8.33398671416234,
+        "swish_log2fc": -7.35366665080234,
+        "stat": -3.0,
+        "pvalue": 0.114611960851817,
+        "locfdr": 0.7267225321694,
+        "qvalue": 0.214833371744642,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000560466.5",
+      "transcript_name": "ANXA2-232",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 4.781832,
+          "num_reads": 35.831
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 4.468176,
+          "num_reads": 33.852
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 1.691431,
+          "num_reads": 13.12
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 31.291397,
+          "num_reads": 150.546
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 30.541347,
+          "num_reads": 134.219
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 32.421596,
+          "num_reads": 132.364
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 3.647146333333333,
+          "replicate_tpm": [
+            4.781832,
+            4.468176,
+            1.691431
+          ]
+        },
+        "Total": {
+          "mean_tpm": 31.418113333333334,
+          "replicate_tpm": [
+            31.291397,
+            30.541347,
+            32.421596
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -3.10326540857456,
+        "swish_log2fc": -3.13692391514127,
+        "stat": -4.5,
+        "pvalue": 1.22952835292382e-07,
+        "locfdr": 1.46913696785493e-06,
+        "qvalue": 5.98479861152672e-07,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": true,
+        "call": "depleted"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000560936.2",
+      "transcript_name": "ANXA2-236",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 3.310997,
+          "num_reads": 71.921
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 4.553188,
+          "num_reads": 99.326
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 5.170199,
+          "num_reads": 114.857
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 15.886083,
+          "num_reads": 230.29
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 15.043237,
+          "num_reads": 195.858
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 13.730724,
+          "num_reads": 164.255
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 4.344794666666666,
+          "replicate_tpm": [
+            3.310997,
+            4.553188,
+            5.170199
+          ]
+        },
+        "Total": {
+          "mean_tpm": 14.886681333333334,
+          "replicate_tpm": [
+            15.886083,
+            15.043237,
+            13.730724
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -1.77431436354059,
+        "swish_log2fc": -2.26306472084016,
+        "stat": -4.5,
+        "pvalue": 1.22952835292382e-07,
+        "locfdr": 1.46913696785493e-06,
+        "qvalue": 5.98479861152672e-07,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": true,
+        "call": "depleted"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000561022.5",
+      "transcript_name": "ANXA2-237",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.319719,
+          "num_reads": 3.719
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 2.790267,
+          "num_reads": 32.711
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 2.218355,
+          "num_reads": 26.6
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 4.245293,
+          "num_reads": 32.27
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 1.71306,
+          "num_reads": 10.91
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 1.7761136666666666,
+          "replicate_tpm": [
+            0.319719,
+            2.790267,
+            2.218355
+          ]
+        },
+        "Total": {
+          "mean_tpm": 1.986117666666667,
+          "replicate_tpm": [
+            4.245293,
+            0.0,
+            1.71306
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -0.160372871628972,
+        "swish_log2fc": -0.252808984395111,
+        "stat": -0.266666666666667,
+        "pvalue": 0.898436531746422,
+        "locfdr": 1.0,
+        "qvalue": 0.934431898106114,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000678450.1",
+      "transcript_name": "ANXA2-243",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 4.051134,
+          "num_reads": 139.069
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 2.51771,
+          "num_reads": 87.076
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 2.765028,
+          "num_reads": 98.105
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 2.95385,
+          "num_reads": 69.032
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 4.757117,
+          "num_reads": 99.162
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 4.564833,
+          "num_reads": 86.77
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 3.1112906666666666,
+          "replicate_tpm": [
+            4.051134,
+            2.51771,
+            2.765028
+          ]
+        },
+        "Total": {
+          "mean_tpm": 4.091933333333333,
+          "replicate_tpm": [
+            2.95385,
+            4.757117,
+            4.564833
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -0.394161331750155,
+        "swish_log2fc": -0.73902855785586,
+        "stat": -3.1,
+        "pvalue": 0.103777234053017,
+        "locfdr": 0.645762426881419,
+        "qvalue": 0.199938647400213,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000678796.1",
+      "transcript_name": "ANXA2-244",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 1.849802,
+          "num_reads": 60.169
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 0.842204,
+          "num_reads": 27.486
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 2.841704,
+          "num_reads": 95.342
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 6.406427,
+          "num_reads": 140.903
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 6.132842,
+          "num_reads": 120.385
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 7.05431,
+          "num_reads": 127.067
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 1.84457,
+          "replicate_tpm": [
+            1.849802,
+            0.842204,
+            2.841704
+          ]
+        },
+        "Total": {
+          "mean_tpm": 6.531192999999999,
+          "replicate_tpm": [
+            6.406427,
+            6.132842,
+            7.05431
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -1.81846905942677,
+        "swish_log2fc": -2.04976400302249,
+        "stat": -4.5,
+        "pvalue": 1.22952835292382e-07,
+        "locfdr": 1.46913696785493e-06,
+        "qvalue": 5.98479861152672e-07,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": true,
+        "call": "depleted"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000861992.1",
+      "transcript_name": "ANXA2-248",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.533614,
+          "num_reads": 20.956
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 0.458092,
+          "num_reads": 18.082
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.449126,
+          "num_reads": 18.251
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 3.544369,
+          "num_reads": 91.825
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 1.675762,
+          "num_reads": 38.896
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 1.553068,
+          "num_reads": 33.057
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 0.4802773333333334,
+          "replicate_tpm": [
+            0.533614,
+            0.458092,
+            0.449126
+          ]
+        },
+        "Total": {
+          "mean_tpm": 2.257733,
+          "replicate_tpm": [
+            3.544369,
+            1.675762,
+            1.553068
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -2.20958082008386,
+        "swish_log2fc": -2.18978395694066,
+        "stat": -4.3,
+        "pvalue": 0.03237385039099,
+        "locfdr": 0.205736379132452,
+        "qvalue": 0.11023780615449,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000861993.1",
+      "transcript_name": "ANXA2-249",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 163.803531,
+          "num_reads": 3689.906
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 233.128146,
+          "num_reads": 5283.589
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 306.760016,
+          "num_reads": 7138.301
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 172.438904,
+          "num_reads": 2577.448
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 140.318953,
+          "num_reads": 1887.947
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 78.540201,
+          "num_reads": 971.04
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 234.56389766666666,
+          "replicate_tpm": [
+            163.803531,
+            233.128146,
+            306.760016
+          ]
+        },
+        "Total": {
+          "mean_tpm": 130.432686,
+          "replicate_tpm": [
+            172.438904,
+            140.318953,
+            78.540201
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 0.846626432008376,
+        "swish_log2fc": 0.58137153829759,
+        "stat": 2.53333333333333,
+        "pvalue": 0.181215757635371,
+        "locfdr": 1.0,
+        "qvalue": 0.299931623931624,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000861994.1",
+      "transcript_name": "ANXA2-250",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 871.020223,
+          "num_reads": 15411.193
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 534.77417,
+          "num_reads": 9522.127
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 752.111141,
+          "num_reads": 13725.482
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 670.952082,
+          "num_reads": 7811.326
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 725.685567,
+          "num_reads": 7631.764
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 736.148491,
+          "num_reads": 7131.329
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 719.3018446666666,
+          "replicate_tpm": [
+            871.020223,
+            534.77417,
+            752.111141
+          ]
+        },
+        "Total": {
+          "mean_tpm": 710.9287133333333,
+          "replicate_tpm": [
+            670.952082,
+            725.685567,
+            736.148491
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 0.0168921633918203,
+        "swish_log2fc": -0.251745735382279,
+        "stat": -2.8,
+        "pvalue": 0.139599788521123,
+        "locfdr": 0.90252595727715,
+        "qvalue": 0.247378477896159,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000861995.1",
+      "transcript_name": "ANXA2-251",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.610735,
+          "num_reads": 22.325
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 0.386086,
+          "num_reads": 14.209
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.583215,
+          "num_reads": 22.025
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 0.205264,
+          "num_reads": 4.981
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 0.477593,
+          "num_reads": 10.402
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 0.5266786666666666,
+          "replicate_tpm": [
+            0.610735,
+            0.386086,
+            0.583215
+          ]
+        },
+        "Total": {
+          "mean_tpm": 0.22761900000000002,
+          "replicate_tpm": [
+            0.205264,
+            0.477593,
+            0.0
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 1.17540834261113,
+        "swish_log2fc": 0.820239426836458,
+        "stat": 2.63333333333333,
+        "pvalue": 0.164326710273939,
+        "locfdr": 1.0,
+        "qvalue": 0.278990084542323,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000861997.1",
+      "transcript_name": "ANXA2-253",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 1.694431,
+          "num_reads": 43.936
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 2.945681,
+          "num_reads": 76.798
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 1.361218,
+          "num_reads": 36.464
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 1.422754,
+          "num_reads": 24.439
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 1.885272,
+          "num_reads": 29.125
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 1.595689,
+          "num_reads": 22.672
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 2.0004433333333336,
+          "replicate_tpm": [
+            1.694431,
+            2.945681,
+            1.361218
+          ]
+        },
+        "Total": {
+          "mean_tpm": 1.6345716666666668,
+          "replicate_tpm": [
+            1.422754,
+            1.885272,
+            1.595689
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 0.289801793796959,
+        "swish_log2fc": 0.0611541078185285,
+        "stat": 0.2,
+        "pvalue": 0.922368440466237,
+        "locfdr": 1.0,
+        "qvalue": 0.949223342738925,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000861998.1",
+      "transcript_name": "ANXA2-254",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.62108,
+          "num_reads": 19.518
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 0.378538,
+          "num_reads": 11.988
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.358315,
+          "num_reads": 11.613
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 1.030856,
+          "num_reads": 21.924
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 0.481729,
+          "num_reads": 9.194
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 0.631288,
+          "num_reads": 11.031
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 0.45264433333333337,
+          "replicate_tpm": [
+            0.62108,
+            0.378538,
+            0.358315
+          ]
+        },
+        "Total": {
+          "mean_tpm": 0.7146243333333334,
+          "replicate_tpm": [
+            1.030856,
+            0.481729,
+            0.631288
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -0.647329732973469,
+        "swish_log2fc": -0.720642190756183,
+        "stat": -1.06666666666667,
+        "pvalue": 0.609673806127969,
+        "locfdr": 1.0,
+        "qvalue": 0.731734523721685,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000862000.1",
+      "transcript_name": "ANXA2-256",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 2.16592,
+          "num_reads": 76.8
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 1.225694,
+          "num_reads": 43.759
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.382374,
+          "num_reads": 14.025
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 1.672637,
+          "num_reads": 39.664
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 3.279619,
+          "num_reads": 69.601
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 0.757736,
+          "num_reads": 14.713
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 1.2579960000000001,
+          "replicate_tpm": [
+            2.16592,
+            1.225694,
+            0.382374
+          ]
+        },
+        "Total": {
+          "mean_tpm": 1.9033306666666665,
+          "replicate_tpm": [
+            1.672637,
+            3.279619,
+            0.757736
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -0.593536031071925,
+        "swish_log2fc": -0.734621532251393,
+        "stat": -1.5,
+        "pvalue": 0.45410625584026,
+        "locfdr": 1.0,
+        "qvalue": 0.594558347687503,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000862002.1",
+      "transcript_name": "ANXA2-258",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.914153,
+          "num_reads": 26.833
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 1.297568,
+          "num_reads": 38.332
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.575996,
+          "num_reads": 17.428
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 12.278489,
+          "num_reads": 239.77
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 13.044388,
+          "num_reads": 229.249
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 6.933278,
+          "num_reads": 112.186
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 0.9292389999999999,
+          "replicate_tpm": [
+            0.914153,
+            1.297568,
+            0.575996
+          ]
+        },
+        "Total": {
+          "mean_tpm": 10.752051666666667,
+          "replicate_tpm": [
+            12.278489,
+            13.044388,
+            6.933278
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -3.5183170131294,
+        "swish_log2fc": -3.64881038188157,
+        "stat": -4.5,
+        "pvalue": 1.22952835292382e-07,
+        "locfdr": 1.46913696785493e-06,
+        "qvalue": 5.98479861152672e-07,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": true,
+        "call": "depleted"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000862006.1",
+      "transcript_name": "ANXA2-262",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 1.510618,
+          "num_reads": 45.584
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 1.031959,
+          "num_reads": 31.23
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 1.018109,
+          "num_reads": 31.66
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 0.931079,
+          "num_reads": 18.729
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 0.680828,
+          "num_reads": 12.317
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 1.206008,
+          "num_reads": 20.063
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 1.1868953333333334,
+          "replicate_tpm": [
+            1.510618,
+            1.031959,
+            1.018109
+          ]
+        },
+        "Total": {
+          "mean_tpm": 0.9393050000000001,
+          "replicate_tpm": [
+            0.931079,
+            0.680828,
+            1.206008
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 0.334353409344529,
+        "swish_log2fc": 0.018564525153498,
+        "stat": 0.4,
+        "pvalue": 0.850008975556976,
+        "locfdr": 1.0,
+        "qvalue": 0.903615747578653,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000862008.1",
+      "transcript_name": "ANXA2-264",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 109.996534,
+          "num_reads": 2508.471
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 206.665365,
+          "num_reads": 4749.835
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 131.994104,
+          "num_reads": 3105.04
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 104.753102,
+          "num_reads": 1604.072
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 46.485068,
+          "num_reads": 640.359
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 21.925975,
+          "num_reads": 277.36
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 149.552001,
+          "replicate_tpm": [
+            109.996534,
+            206.665365,
+            131.994104
+          ]
+        },
+        "Total": {
+          "mean_tpm": 57.721381666666666,
+          "replicate_tpm": [
+            104.753102,
+            46.485068,
+            21.925975
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 1.3733160199213,
+        "swish_log2fc": 1.17006792981922,
+        "stat": 3.3,
+        "pvalue": 0.0849457777996361,
+        "locfdr": 0.49880762619411,
+        "qvalue": 0.174165826358778,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000862009.1",
+      "transcript_name": "ANXA2-265",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 1.509794,
+          "num_reads": 81.763
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 1.695546,
+          "num_reads": 92.915
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.820662,
+          "num_reads": 45.691
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 3.606363,
+          "num_reads": 136.744
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 2.545006,
+          "num_reads": 85.566
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 5.009715,
+          "num_reads": 152.081
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 1.3420006666666666,
+          "replicate_tpm": [
+            1.509794,
+            1.695546,
+            0.820662
+          ]
+        },
+        "Total": {
+          "mean_tpm": 3.720361333333333,
+          "replicate_tpm": [
+            3.606363,
+            2.545006,
+            5.009715
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -1.46421951775677,
+        "swish_log2fc": -1.67515881711916,
+        "stat": -4.5,
+        "pvalue": 1.22952835292382e-07,
+        "locfdr": 1.46913696785493e-06,
+        "qvalue": 5.98479861152672e-07,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": true,
+        "call": "depleted"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000911891.1",
+      "transcript_name": "ANXA2-266",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 0.983682,
+          "num_reads": 44.899
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 0.243761,
+          "num_reads": 11.172
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 0.450506,
+          "num_reads": 13.72
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 1.361958,
+          "num_reads": 37.075
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 0.171554,
+          "num_reads": 4.273
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 0.4091476666666667,
+          "replicate_tpm": [
+            0.983682,
+            0.243761,
+            0.0
+          ]
+        },
+        "Total": {
+          "mean_tpm": 0.6613393333333334,
+          "replicate_tpm": [
+            0.450506,
+            1.361958,
+            0.171554
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -0.679583573262514,
+        "swish_log2fc": 0.00342146585431591,
+        "stat": -0.933333333333333,
+        "pvalue": 0.657166797816358,
+        "locfdr": 1.0,
+        "qvalue": 0.768338364671382,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000911892.1",
+      "transcript_name": "ANXA2-267",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 275.82378,
+          "num_reads": 5079.108
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 172.6571,
+          "num_reads": 3203.465
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 245.985649,
+          "num_reads": 4678.96
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 7.656407,
+          "num_reads": 94.015
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 4.308273,
+          "num_reads": 47.711
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 0.823763,
+          "num_reads": 8.398
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 231.488843,
+          "replicate_tpm": [
+            275.82378,
+            172.6571,
+            245.985649
+          ]
+        },
+        "Total": {
+          "mean_tpm": 4.262814333333333,
+          "replicate_tpm": [
+            7.656407,
+            4.308273,
+            0.823763
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 5.75967454395168,
+        "swish_log2fc": 5.36156095847635,
+        "stat": 4.5,
+        "pvalue": 1.22952835292382e-07,
+        "locfdr": 1.46913696785493e-06,
+        "qvalue": 5.98479861152672e-07,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": true,
+        "call": "enriched"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000911893.1",
+      "transcript_name": "ANXA2-268",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 4.268653,
+          "num_reads": 102.051
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 12.266632,
+          "num_reads": 173.056
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 11.689522,
+          "num_reads": 151.653
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 1.4228843333333332,
+          "replicate_tpm": [
+            4.268653,
+            0.0,
+            0.0
+          ]
+        },
+        "Total": {
+          "mean_tpm": 7.985384666666666,
+          "replicate_tpm": [
+            0.0,
+            12.266632,
+            11.689522
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -2.48024528932125,
+        "swish_log2fc": -2.6806791823558,
+        "stat": -3.0,
+        "pvalue": 0.114611960851817,
+        "locfdr": 0.7267225321694,
+        "qvalue": 0.214833371744642,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000971922.1",
+      "transcript_name": "ANXA2-270",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 646.346959,
+          "num_reads": 13677.25
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 413.527044,
+          "num_reads": 8794.496
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 434.985729,
+          "num_reads": 9518.499
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 1075.126111,
+          "num_reads": 14948.423
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 1060.086545,
+          "num_reads": 13279.467
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 958.019072,
+          "num_reads": 11041.223
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 498.2865773333333,
+          "replicate_tpm": [
+            646.346959,
+            413.527044,
+            434.985729
+          ]
+        },
+        "Total": {
+          "mean_tpm": 1031.0772426666665,
+          "replicate_tpm": [
+            1075.126111,
+            1060.086545,
+            958.019072
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -1.04908983794164,
+        "swish_log2fc": -1.33055859041646,
+        "stat": -4.5,
+        "pvalue": 1.22952835292382e-07,
+        "locfdr": 1.46913696785493e-06,
+        "qvalue": 5.98479861152672e-07,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": true,
+        "call": "depleted"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000971926.1",
+      "transcript_name": "ANXA2-274",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 4.416484,
+          "num_reads": 129.827
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 10.355393,
+          "num_reads": 307.084
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 5.480598,
+          "num_reads": 166.399
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 20.514049,
+          "num_reads": 411.065
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 12.402607,
+          "num_reads": 222.319
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 12.521113,
+          "num_reads": 204.906
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 6.750824999999999,
+          "replicate_tpm": [
+            4.416484,
+            10.355393,
+            5.480598
+          ]
+        },
+        "Total": {
+          "mean_tpm": 15.145923000000002,
+          "replicate_tpm": [
+            20.514049,
+            12.402607,
+            12.521113
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -1.16461050590527,
+        "swish_log2fc": -1.44266749455241,
+        "stat": -4.2,
+        "pvalue": 0.0364114985491565,
+        "locfdr": 0.205736379132452,
+        "qvalue": 0.113703973891342,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000971931.1",
+      "transcript_name": "ANXA2-279",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 46.132271,
+          "num_reads": 1048.033
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 216.105091,
+          "num_reads": 4936.377
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 0.0,
+          "num_reads": 0.0
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 238.529043,
+          "num_reads": 3585.745
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 317.436887,
+          "num_reads": 4298.999
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 205.991259,
+          "num_reads": 2562.748
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 87.41245399999998,
+          "replicate_tpm": [
+            46.132271,
+            216.105091,
+            0.0
+          ]
+        },
+        "Total": {
+          "mean_tpm": 253.98572966666666,
+          "replicate_tpm": [
+            238.529043,
+            317.436887,
+            205.991259
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": -1.53872846061196,
+        "swish_log2fc": -1.7828629108156,
+        "stat": -4.4,
+        "pvalue": 0.027597132739881,
+        "locfdr": 0.205736379132452,
+        "qvalue": 0.105734407386471,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "transcript_id": "ENST00000971934.1",
+      "transcript_name": "ANXA2-282",
+      "samples": {
+        "SRR5605163": {
+          "condition": "SG",
+          "tpm": 12.176881,
+          "num_reads": 353.563
+        },
+        "SRR5605164": {
+          "condition": "SG",
+          "tpm": 11.665635,
+          "num_reads": 340.645
+        },
+        "SRR5605165": {
+          "condition": "SG",
+          "tpm": 11.910533,
+          "num_reads": 358.129
+        },
+        "SRR5605166": {
+          "condition": "Total",
+          "tpm": 8.354766,
+          "num_reads": 158.398
+        },
+        "SRR5605167": {
+          "condition": "Total",
+          "tpm": 6.740481,
+          "num_reads": 115.037
+        },
+        "SRR5605168": {
+          "condition": "Total",
+          "tpm": 9.529902,
+          "num_reads": 149.658
+        }
+      },
+      "conditions": {
+        "SG": {
+          "mean_tpm": 11.917682999999998,
+          "replicate_tpm": [
+            12.176881,
+            11.665635,
+            11.910533
+          ]
+        },
+        "Total": {
+          "mean_tpm": 8.208383,
+          "replicate_tpm": [
+            8.354766,
+            6.740481,
+            9.529902
+          ]
+        }
+      },
+      "statistics": {
+        "manual_log2fc": 0.537387350109897,
+        "swish_log2fc": 0.238139503919023,
+        "stat": 2.33333333333333,
+        "pvalue": 0.221647813898589,
+        "locfdr": 1.0,
+        "qvalue": 0.349151866126939,
+        "filter_keep": true,
+        "metrics_available": true,
+        "significant": false,
+        "call": "not_significant"
+      }
+    }
+  ]
+}

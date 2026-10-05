@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Sampled individual RNA-seq alignments",
+  "type": "object",
+  "required": ["gene_id", "sample_id", "chrom", "start", "end", "total_reads", "displayed_reads", "reads", "total_spliced_reads", "spliced_reads"],
+  "properties": {
+    "gene_id": {"type": "string"},
+    "sample_id": {"type": "string"},
+    "chrom": {"type": "string"},
+    "start": {"type": "integer"},
+    "end": {"type": "integer"},
+    "total_reads": {"type": "integer", "minimum": 0},
+    "displayed_reads": {"type": "integer", "minimum": 0},
+    "reads": {"type": "array", "items": {"$ref": "#/$defs/read"}},
+    "total_spliced_reads": {"type": "integer", "minimum": 0},
+    "displayed_spliced_reads": {"type": "integer", "minimum": 0},
+    "spliced_reads": {"type": "array", "items": {"$ref": "#/$defs/read"}}
+  },
+  "$defs": {
+    "read": {
+      "type": "object",
+      "required": ["read_id", "mapq", "strand", "segments", "junctions"],
+      "properties": {
+        "read_id": {"type": "string"},
+        "mapq": {"type": "integer"},
+        "strand": {"enum": ["+", "-"]},
+        "segments": {"type": "array", "items": {"type": "object", "required": ["start", "end"], "properties": {"start": {"type": "integer"}, "end": {"type": "integer"}}}},
+        "junctions": {"type": "array", "items": {"type": "object", "required": ["donor", "acceptor"], "properties": {"donor": {"type": "integer"}, "acceptor": {"type": "integer"}}}}
+      }
+    }
+  }
+}

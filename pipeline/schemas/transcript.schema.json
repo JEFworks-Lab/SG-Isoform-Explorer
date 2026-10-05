@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Transcript record",
+  "type": "object",
+  "required": [
+    "transcript_id",
+    "gene_id",
+    "chrom",
+    "start",
+    "end",
+    "strand",
+    "exons"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "generated": {
+    "by": "pipeline/prepare_project.py",
+    "from": "project.example.json",
+    "note": "Machine-generated; edit the project file and sample sheet instead."
+  },
+  "dataset": {
+    "id": "khong2017_gene_browser",
+    "name": "Khong 2017 \u00b7 Stress Granule RNA versus Total RNA",
+    "description": "Gene-symbol-driven browser build from Ensembl 115, Salmon, STAR, and indexed BAM files.",
+    "genome": "GRCh38.p14",
+    "annotation": "Ensembl 115",
+    "status": "prepared from source files"
+  },
+  "conditions": [
+    {
+      "id": "SG",
+      "label": "Stress Granule RNA"
+    },
+    {
+      "id": "Total",
+      "label": "Total RNA"
+    }
+  ],
+  "comparison": {
+    "numerator": "SG",
+    "denominator": "Total",
+    "label": "SG / Total"
+  },
+  "output": "browser-data",
+  "public_output": "frontend/public/data/khong2017",
+  "coverage": {
+    "source": "bam",
+    "source_bin_size": 1,
+    "exclude_flags": "0xF04",
+    "unique_only": true,
+    "normalization": "star_unique_mapped_reads",
+    "max_sampled_reads": 100
+  },
+  "genes": [
+    {
+      "gene_id": "ENSG00000126247",
+      "gene_id_version": "ENSG00000126247.12",
+      "gene_name": "CAPNS1",
+      "chrom": "19",
+      "start": 36139953,
+      "end": 36150356,
+      "strand": "+",
+      "gtf": "../generated/gtf/CAPNS1.gtf"
+    },
+    {
+      "gene_id": "ENSG00000182718",
+      "gene_id_version": "ENSG00000182718.19",
+      "gene_name": "ANXA2",
+      "chrom": "15",
+      "start": 60347134,
+      "end": 60402883,
+      "strand": "-",
+      "gtf": "../generated/gtf/ANXA2.gtf"
+    }
+  ],
+  "samples": [
+    {
+      "sample_id": "SRR5605163",
+      "condition": "SG",
+      "replicate": 1,
+      "display_name": "SG replicate 1",
+      "bam": "../../Khong2017/star_alignments/SRR5605163_Aligned.sortedByCoord.out.bam",
+      "bai": "../../Khong2017/star_alignments/SRR5605163_Aligned.sortedByCoord.out.bam.bai",
+      "sj": "../../Khong2017/star_alignments/SRR5605163_SJ.out.tab",
+      "star_log": "../../Khong2017/star_alignments/SRR5605163_Log.final.out",
+      "quant": "../../Khong2017/salmon_quasimapping/SRR5605163/quant.sf"
+    },
+    {
+      "sample_id": "SRR5605164",
+      "condition": "SG",
+      "replicate": 2,
+      "display_name": "SG replicate 2",
+      "bam": "../../Khong2017/star_alignments/SRR5605164_Aligned.sortedByCoord.out.bam",
+      "bai": "../../Khong2017/star_alignments/SRR5605164_Aligned.sortedByCoord.out.bam.bai",
+      "sj": "../../Khong2017/star_alignments/SRR5605164_SJ.out.tab",
+      "star_log": "../../Khong2017/star_alignments/SRR5605164_Log.final.out",
+      "quant": "../../Khong2017/salmon_quasimapping/SRR5605164/quant.sf"
+    },
+    {
+      "sample_id": "SRR5605165",
+      "condition": "SG",
+      "replicate": 3,
+      "display_name": "SG replicate 3",
+      "bam": "../../Khong2017/star_alignments/SRR5605165_Aligned.sortedByCoord.out.bam",
+      "bai": "../../Khong2017/star_alignments/SRR5605165_Aligned.sortedByCoord.out.bam.bai",
+      "sj": "../../Khong2017/star_alignments/SRR5605165_SJ.out.tab",
+      "star_log": "../../Khong2017/star_alignments/SRR5605165_Log.final.out",
+      "quant": "../../Khong2017/salmon_quasimapping/SRR5605165/quant.sf"
+    },
+    {
+      "sample_id": "SRR5605166",
+      "condition": "Total",
+      "replicate": 1,
+      "display_name": "Total replicate 1",
+      "bam": "../../Khong2017/star_alignments/SRR5605166_Aligned.sortedByCoord.out.bam",
+      "bai": "../../Khong2017/star_alignments/SRR5605166_Aligned.sortedByCoord.out.bam.bai",
+      "sj": "../../Khong2017/star_alignments/SRR5605166_SJ.out.tab",
+      "star_log": "../../Khong2017/star_alignments/SRR5605166_Log.final.out",
+      "quant": "../../Khong2017/salmon_quasimapping/SRR5605166/quant.sf"
+    },
+    {
+      "sample_id": "SRR5605167",
+      "condition": "Total",
+      "replicate": 2,
+      "display_name": "Total replicate 2",
+      "bam": "../../Khong2017/star_alignments/SRR5605167_Aligned.sortedByCoord.out.bam",
+      "bai": "../../Khong2017/star_alignments/SRR5605167_Aligned.sortedByCoord.out.bam.bai",
+      "sj": "../../Khong2017/star_alignments/SRR5605167_SJ.out.tab",
+      "star_log": "../../Khong2017/star_alignments/SRR5605167_Log.final.out",
+      "quant": "../../Khong2017/salmon_quasimapping/SRR5605167/quant.sf"
+    },
+    {
+      "sample_id": "SRR5605168",
+      "condition": "Total",
+      "replicate": 3,
+      "display_name": "Total replicate 3",
+      "bam": "../../Khong2017/star_alignments/SRR5605168_Aligned.sortedByCoord.out.bam",
+      "bai": "../../Khong2017/star_alignments/SRR5605168_Aligned.sortedByCoord.out.bam.bai",
+      "sj": "../../Khong2017/star_alignments/SRR5605168_SJ.out.tab",
+      "star_log": "../../Khong2017/star_alignments/SRR5605168_Log.final.out",
+      "quant": "../../Khong2017/salmon_quasimapping/SRR5605168/quant.sf"
+    }
+  ],
+  "statistics": {
+    "transcript_id_column": "ensembl_transcript_id_version",
+    "fields": {
+      "manual_log2fc": "log2fc",
+      "swish_log2fc": "log2FC",
+      "stat": "stat",
+      "pvalue": "pvalue",
+      "locfdr": "locfdr",
+      "qvalue": "qvalue",
+      "filter_keep": "keep"
+    },
+    "significance": {
+      "effect_field": "swish_log2fc",
+      "qvalue_field": "qvalue",
+      "absolute_log2fc_gt": 1.0,
+      "qvalue_lt": 0.01
+    },
+    "metrics_csv": "../../Khong2017/salmon_quasimapping/Khong2017_salmonquasi_bootstrap_final.csv"
+  }
+}

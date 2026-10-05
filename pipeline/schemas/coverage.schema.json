@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Exact one-base coverage",
+  "type": "object",
+  "required": [
+    "gene_id",
+    "sample_id",
+    "chrom",
+    "start",
+    "end",
+    "bin_size",
+    "positions",
+    "values",
+    "normalized_values",
+    "normalization_denominator",
+    "read_filter"
+  ],
+  "properties": {
+    "gene_id": {"type": "string"},
+    "sample_id": {"type": "string"},
+    "chrom": {"type": "string"},
+    "start": {"type": "integer"},
+    "end": {"type": "integer"},
+    "coordinate_system": {"const": "1-based inclusive"},
+    "bin_size": {"const": 1},
+    "positions": {"type": "array", "items": {"type": "integer"}},
+    "values": {"type": "array", "items": {"type": "integer", "minimum": 0}},
+    "normalized_values": {"type": "array", "items": {"type": "number", "minimum": 0}},
+    "normalization_denominator": {"type": "integer", "minimum": 1},
+    "read_filter": {"type": "string"}
+  }
+}

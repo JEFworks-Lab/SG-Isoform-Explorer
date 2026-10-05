@@ -1,0 +1,60 @@
+{
+  "dataset": {
+    "id": "khong2017_gene_browser",
+    "name": "Khong 2017 · Stress Granule RNA versus Total RNA",
+    "description": "Gene-symbol-driven browser build from Ensembl 115, Salmon, STAR, and indexed BAM files.",
+    "genome": "GRCh38.p14",
+    "annotation": "Ensembl 115",
+    "status": "prepared from source files"
+  },
+  "conditions": [
+    { "id": "SG", "label": "Stress Granule RNA" },
+    { "id": "Total", "label": "Total RNA" }
+  ],
+  "comparison": {
+    "numerator": "SG",
+    "denominator": "Total",
+    "label": "SG / Total"
+  },
+  "reference_gtf": "../../Khong2017/Homo_sapiens.GRCh38.115.gtf",
+  "genes": ["CAPNS1", "ANXA2"],
+  "transcript_selection": {
+    "mode": "table",
+    "table": "../../Khong2017/salmon_quasimapping/Khong2017_salmonquasi_bootstrap_final.csv",
+    "gene_column": "external_gene_name",
+    "transcript_column": "ensembl_transcript_id_version"
+  },
+  "sample_sheet": "samples.csv",
+  "data_roots": {
+    "alignment": "../../Khong2017/star_alignments",
+    "quantification": "../../Khong2017/salmon_quasimapping"
+  },
+  "file_patterns": {
+    "bam": "{sample_id}_Aligned.sortedByCoord.out.bam",
+    "bai": "{sample_id}_Aligned.sortedByCoord.out.bam.bai",
+    "sj": "{sample_id}_SJ.out.tab",
+    "star_log": "{sample_id}_Log.final.out",
+    "quant": "{sample_id}/quant.sf"
+  },
+  "statistics": {
+    "metrics_csv": "../../Khong2017/salmon_quasimapping/Khong2017_salmonquasi_bootstrap_final.csv",
+    "transcript_id_column": "ensembl_transcript_id_version",
+    "fields": {
+      "manual_log2fc": "log2fc",
+      "swish_log2fc": "log2FC",
+      "stat": "stat",
+      "pvalue": "pvalue",
+      "locfdr": "locfdr",
+      "qvalue": "qvalue",
+      "filter_keep": "keep"
+    },
+    "significance": {
+      "effect_field": "swish_log2fc",
+      "qvalue_field": "qvalue",
+      "absolute_log2fc_gt": 1.0,
+      "qvalue_lt": 0.01
+    }
+  },
+  "output": "browser-data",
+  "public_output": "frontend/public/data/khong2017"
+}
